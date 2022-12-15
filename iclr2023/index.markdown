@@ -28,8 +28,9 @@ The goal of this workshop is to solicit research papers addressing advancements 
 - Solutions specific to the African context
 - Applications related to sustainable development, societal needs, planetary exploration, and more including but not limited to agriculture and food security, forestry, biodiversity and species distribution modeling, and natural hazards and disasters (e.g., landslides).
 
+We will solicit two types of papers: short proposal papers (3 pages) and short papers describing new and ongoing/in progress research (4 pages). Page limits do not include references, which are unlimited. To prepare your submission, please use the [LaTeX style files for ICLR 2023](https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip).
 
-Full details of the submission and review process will be provided [here](https://cmt3.research.microsoft.com/ICLRMLRS2023).
+**Submission site:** https://cmt3.research.microsoft.com/ICLRMLRS2023
 
 ## Schedule
 
@@ -59,6 +60,11 @@ Full details of the submission and review process will be provided [here](https:
 - Ange Tesire Marie (Rwanda Space Agency) 
 - Hamed Alemohammad (Clark University, previously Radiant Earth Foundation)
 
+## Program Committee
+We will be seeking volunteer reviewers to support this workshop. More details will be posted soon.
+
+## Travel Support and Sponsorship
+We plan to offer a limited number scholarships for travel support for students to present at the workshop. We are currently seeking sponsorships to support this. If you or your organization is interested in becoming a workshop sponsor, please contact the organizing team using the email below.
 
 ## Contact
 For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2023 please contact [ml4rs_iclr23@googlegroups.com](mailto:ml4rs_iclr23@googlegroups.com).
