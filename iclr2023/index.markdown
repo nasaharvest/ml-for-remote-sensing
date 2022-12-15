@@ -50,6 +50,11 @@ We will solicit two types of papers: short proposal papers (3 pages) and short p
 | 16:30      | Poster session                                           |
 | 17:30      | Adjourn                                                  |
 
+## Speakers
+- [Abdoulaye Diack](https://adiack.github.io/), Program Manager at Google AI
+- [Joyce Nakatumba-Nabende](https://sites.google.com/view/jnabende/home), Lecturer and Head of Makerere AI Lab, Makerere University
+- [Francis Ngabo](https://rw.linkedin.com/in/francis-ngabo-b5a9b2216), CEO of Rwanda Space Agency
+
 ## Organizers
 - Hannah Kerner (Arizona State University)
 - Catherine Nakalembe (University of Maryland) 
