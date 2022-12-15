@@ -61,4 +61,4 @@ Full details of the submission and review process will be provided [here](https:
 
 
 ## Contact
-For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2023, please contact hkerner@asu.edu.
+For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2023 please contact [ml4rs_iclr23@googlegroups.com](mailto:ml4rs_iclr23@googlegroups.com).
