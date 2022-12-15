@@ -30,7 +30,7 @@ The goal of this workshop is to solicit research papers addressing advancements 
 
 We will solicit two types of papers: short proposal papers (3 pages) and short papers describing new and ongoing/in progress research (4 pages). Page limits do not include references, which are unlimited. To prepare your submission, please use the [LaTeX style files for ICLR 2023](https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip).
 
-**Submission site:** https://cmt3.research.microsoft.com/ICLRMLRS2023
+**Submission site:** [https://cmt3.research.microsoft.com/ICLRMLRS2023](https://cmt3.research.microsoft.com/ICLRMLRS2023)
 
 ## Schedule
 
