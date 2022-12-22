@@ -28,7 +28,7 @@ The goal of this workshop is to solicit research papers addressing advancements 
 - Solutions specific to the African context
 - Applications related to sustainable development, societal needs, planetary exploration, and more including but not limited to agriculture and food security, forestry, biodiversity and species distribution modeling, and natural hazards and disasters (e.g., landslides).
 
-We will solicit two types of papers: short proposal papers (3 pages) and short papers describing new and ongoing/in progress research (4 pages). Page limits do not include references, which are unlimited. To prepare your submission, please use the [LaTeX style files for ICLR 2023](https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip).
+We will solicit two types of papers: short proposal papers (3 pages) and short papers describing new and ongoing/in progress research (4 pages). Page limits do not include references, which are unlimited. Papers will be non-archival. To prepare your submission, please use the [LaTeX style files for ICLR 2023](https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip).
 
 **Submission site:** [https://cmt3.research.microsoft.com/ICLRMLRS2023](https://cmt3.research.microsoft.com/ICLRMLRS2023)
 
@@ -54,6 +54,7 @@ We will solicit two types of papers: short proposal papers (3 pages) and short p
 - [Abdoulaye Diack](https://adiack.github.io/), Program Manager at Google AI
 - [Joyce Nakatumba-Nabende](https://sites.google.com/view/jnabende/home), Lecturer and Head of Makerere AI Lab, Makerere University
 - [Francis Ngabo](https://rw.linkedin.com/in/francis-ngabo-b5a9b2216), CEO of Rwanda Space Agency
+- [Charles Mwangi](https://www.iafastro.org/biographie/charles-mwangi.html), Earth Observation, Research, Education and Outreach Lead at Kenya Space Agency
 
 ## Organizers
 - Hannah Kerner (Arizona State University)
