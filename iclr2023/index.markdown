@@ -55,6 +55,7 @@ We will solicit two types of papers: short proposal papers (3 pages) and short p
 - [Joyce Nakatumba-Nabende](https://sites.google.com/view/jnabende/home), Lecturer and Head of Makerere AI Lab, Makerere University
 - [Francis Ngabo](https://rw.linkedin.com/in/francis-ngabo-b5a9b2216), CEO of Rwanda Space Agency
 - [Charles Mwangi](https://www.iafastro.org/biographie/charles-mwangi.html), Earth Observation, Research, Education and Outreach Lead at Kenya Space Agency
+- [Temidayo Oniosun](https://www.linkedin.com/in/oniosuntemidayoisaiah/?originalSubdomain=uk), Managing Director at Space in Africa
 
 ## Organizers
 - Hannah Kerner (Arizona State University)
