@@ -71,7 +71,7 @@ We will solicit two types of papers: short proposal papers (3 pages) and short p
 We will be seeking volunteer reviewers to support this workshop. More details will be posted soon.
 
 ## Travel Support and Sponsorship
-We plan to offer a limited number scholarships for travel support for students to present at the workshop. We are currently seeking sponsorships to support this. If you or your organization is interested in becoming a workshop sponsor, please contact the organizing team using the email below.
+We plan to offer a limited number scholarships for travel support for students to present at the workshop. We are currently seeking sponsorships to support this. If you or your organization is interested in becoming a workshop sponsor, please see the [sponsorship prospectus](https://drive.google.com/file/d/1VNmYAoV3oefS1KvTCa9EbK6AbeOTCppB/view) and contact the organizing team using the email below.
 
 ## Contact
 For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2023 please contact [ml4rs_iclr23@googlegroups.com](mailto:ml4rs_iclr23@googlegroups.com).
