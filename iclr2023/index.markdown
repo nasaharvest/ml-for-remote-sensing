@@ -66,6 +66,7 @@ We will solicit two types of papers: short proposal papers (3 pages) and short p
 - Moise Busogi (Carnegie Mellon University Africa)
 - Ange Tesire Marie (Rwanda Space Agency) 
 - Hamed Alemohammad (Clark University, previously Radiant Earth Foundation)
+- Ronny Hänsch (German Aerospace Center (DLR) / GRSS)
 
 ## Program Committee
 We will be seeking volunteer reviewers to support this workshop. More details will be posted soon.
