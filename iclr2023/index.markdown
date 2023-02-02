@@ -81,7 +81,7 @@ We plan to offer a limited number scholarships for travel support for students t
 If you or your organization is interested in becoming a workshop sponsor, please see the [sponsorship prospectus](https://drive.google.com/file/d/1VNmYAoV3oefS1KvTCa9EbK6AbeOTCppB/view) and contact the organizing team using the email below.
 
 ### Platinum Sponsors
-<img src="https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg" alt="Microsoft logo" width="512"/>
+<img src="https://www.freepnglogos.com/uploads/microsoft-logo-png-transparent-background-1.png" alt="Microsoft logo" width="512"/>
 
 ### Gold Sponsors
 <img src="http://www.grss-ieee.org/wp-content/uploads/2020/12/grss.png" alt="GRSS logo" width="200"/>
