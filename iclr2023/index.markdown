@@ -6,7 +6,7 @@ Remote sensing data (also referred to as Earth observation or satellite data) ha
 
 ## Call for Papers
 **Important Dates**
-- Submission Deadline - February 03, 2023
+- Submission Deadline - February 05, 2023 (11:59 pm AoE)
 - Acceptance Notification - March 03, 2023
 - Workshop - May 05, 2023
 
@@ -58,6 +58,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 - [Francis Ngabo](https://rw.linkedin.com/in/francis-ngabo-b5a9b2216), CEO of Rwanda Space Agency
 - [Charles Mwangi](https://www.iafastro.org/biographie/charles-mwangi.html), Earth Observation, Research, Education and Outreach Lead at Kenya Space Agency
 - [Temidayo Oniosun](https://www.linkedin.com/in/oniosuntemidayoisaiah/?originalSubdomain=uk), Managing Director at Space in Africa
+- [Amy Bray](https://www.linkedin.com/in/amyflorida626), Competition Lead and Data Scientist at Zindi Africa
 
 ## Organizers
 - Hannah Kerner (Arizona State University)
@@ -78,6 +79,9 @@ We plan to offer a limited number scholarships for travel support for students t
 
 ## Sponsors
 If you or your organization is interested in becoming a workshop sponsor, please see the [sponsorship prospectus](https://drive.google.com/file/d/1VNmYAoV3oefS1KvTCa9EbK6AbeOTCppB/view) and contact the organizing team using the email below.
+
+### Platinum Sponsors
+<img src="https://www.freepnglogos.com/uploads/microsoft-logo-png-transparent-background-1.png" alt="Microsoft logo" width="512"/>
 
 ### Gold Sponsors
 <img src="http://www.grss-ieee.org/wp-content/uploads/2020/12/grss.png" alt="GRSS logo" width="200"/>
