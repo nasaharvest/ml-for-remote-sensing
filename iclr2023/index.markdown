@@ -75,7 +75,11 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 We will be seeking volunteer reviewers to support this workshop. More details will be posted soon.
 
 ## Travel Support
-We plan to offer a limited number scholarships for travel support for students to present at the workshop. We are currently seeking sponsorships to support this. 
+Limited funding is available to support the travel of students to attend the workshop held at ICLR 2023. Awards are based on merit with additional consideration based on need and travel distance. Priority will be given to those whose papers are accepted for presentation at the workshop.
+
+The deadline for submitting this application is February 26, 11:59pm Anywhere on Earth.
+
+[Application form link](https://docs.google.com/forms/d/e/1FAIpQLSdW719hQudD-LjxfjiJJ8fP8LBaVm4wi-WcnrEik8Pkh2ZgOw/viewform)
 
 ## Sponsors
 If you or your organization is interested in becoming a workshop sponsor, please see the [sponsorship prospectus](https://drive.google.com/file/d/1VNmYAoV3oefS1KvTCa9EbK6AbeOTCppB/view) and contact the organizing team using the email below.
