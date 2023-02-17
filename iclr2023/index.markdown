@@ -53,11 +53,10 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 | 17:30      | Adjourn                                                  |
 
 ## Speakers
-- [Abdoulaye Diack](https://adiack.github.io/), Program Manager at Google AI
+- [Abigail Annkah](https://research.google/people/106787/), Research Software Engineer at Google AI
 - [Joyce Nakatumba-Nabende](https://sites.google.com/view/jnabende/home), Lecturer and Head of Makerere AI Lab, Makerere University
 - [Francis Ngabo](https://rw.linkedin.com/in/francis-ngabo-b5a9b2216), CEO of Rwanda Space Agency
 - [Charles Mwangi](https://www.iafastro.org/biographie/charles-mwangi.html), Earth Observation, Research, Education and Outreach Lead at Kenya Space Agency
-- [Temidayo Oniosun](https://www.linkedin.com/in/oniosuntemidayoisaiah/?originalSubdomain=uk), Managing Director at Space in Africa
 - [Amy Bray](https://www.linkedin.com/in/amyflorida626), Competition Lead and Data Scientist at Zindi Africa
 
 ## Organizers
