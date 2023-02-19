@@ -70,7 +70,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 - Hamed Alemohammad (Clark University, previously Radiant Earth Foundation)
 - Ronny Hänsch (German Aerospace Center (DLR) / GRSS)
 
-## Reviewers
+## Program Committee
 
 | Full name              | Organization                          |
 | --------------------- | ------------------------------------- |
