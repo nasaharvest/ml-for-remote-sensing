@@ -123,7 +123,6 @@ If you or your organization is interested in becoming a workshop sponsor, please
 <img src="https://www.freepnglogos.com/uploads/microsoft-logo-png-transparent-background-1.png" alt="Microsoft logo" width="512"/>
 
 ### Gold Sponsors
-<!-- <img src="http://www.grss-ieee.org/wp-content/uploads/2020/12/grss.png" alt="GRSS logo" width="200"/> -->
 <img src="https://www.grss-ieee.org/wp-content/uploads/2020/12/grss.png" alt="GRSS logo" width="200"/>
       
 ## Contact
