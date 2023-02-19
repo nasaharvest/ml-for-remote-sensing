@@ -70,8 +70,44 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 - Hamed Alemohammad (Clark University, previously Radiant Earth Foundation)
 - Ronny Hänsch (German Aerospace Center (DLR) / GRSS)
 
-## Program Committee
+## Reviewers - Program Committee
 We will be seeking volunteer reviewers to support this workshop. More details will be posted soon.
+
+| Fullname              | Organization                          |
+| --------------------- | ------------------------------------- |
+| Alex Hernandez-Garcia | Mila - Quebec AI Institute            |
+| Anthony Ortiz         | Microsoft                             |
+| Anthony Vodacek       | Rochester Institute of Technology     |
+|Arthur Ouaknine        | Telecom Paris                         |
+|Begum Demir            | TU Berlin                             |
+|Bertrand Le Saux       | ESA / Phi-lab                         |
+|Caleb Robinson         | Microsoft AI for Good Research Lab    |
+|Charlotte Pelletier    | Université de Bretagne du Sud         |
+|Christian Ayala        | Tracasa Instrumental                  |
+|Dalton Lunga           | Oak Ridge National Laboratory         |
+|Devis Tuia             | EPFL                                  |
+|Jan Dirk Wegner        | University of Zurich                  |
+|Jocelyn Chanussot      | Grenoble Institute of Technology      |
+|Jonathan Sullivan      | University of Arizona                 |
+|Kevin Booth            | Radiant Earth Foundation              |
+|Kristof Van Tricht     | VITO                                  |
+|Lewis Fishgold         | Azavea                                |
+|Loic Landrieu          | IGN                                   |
+|Lukas Kondmann         | German Aerospace Center               |
+|Marc Rußwurm           | École Polytechnique Fédérale de Lausanne|
+|Mark Wronkiewicz       | Jet Propulsion Laboratory             |
+|Nathan Jacobs          | Washington University in St. Louis    |
+|Patrick Gray           | Select One                            |
+|Pedram Ghamisi         | Helmholtz-Zentrum Dresden-Rossendorf  |
+|Qiusheng Wu            | University of Tennessee               |
+|Ritvik Sahajpal        | University of Maryland                |
+|Rohit Mukherjee        | The University of Arizona             |
+|Sergii Skakun          | University of Maryland                |
+|Subit Chakrabarti      | Cloud To Street                       |
+|Tyler Erickson         | independent                           |
+|VIvien Sainte Fare Garnot| University of Zurich                |
+|Zhiang Chen            | Arizona State University              |
+|Zhuangfang Yi          | Regrow                                |
 
 ## Travel Support
 Limited funding is available to support the travel of students to attend the workshop held at ICLR 2023. Awards are based on merit with additional consideration based on need and travel distance. Priority will be given to those whose papers are accepted for presentation at the workshop.
@@ -87,7 +123,8 @@ If you or your organization is interested in becoming a workshop sponsor, please
 <img src="https://www.freepnglogos.com/uploads/microsoft-logo-png-transparent-background-1.png" alt="Microsoft logo" width="512"/>
 
 ### Gold Sponsors
-<img src="http://www.grss-ieee.org/wp-content/uploads/2020/12/grss.png" alt="GRSS logo" width="200"/>
+<!-- <img src="http://www.grss-ieee.org/wp-content/uploads/2020/12/grss.png" alt="GRSS logo" width="200"/> -->
+<img src="https://www.grss-ieee.org/wp-content/uploads/2020/12/grss.png" alt="GRSS logo" width="200"/>
       
 ## Contact
 For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2023 please contact [ml4rs_iclr23@googlegroups.com](mailto:ml4rs_iclr23@googlegroups.com).
