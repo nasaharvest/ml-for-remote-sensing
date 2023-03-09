@@ -111,7 +111,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 ## Travel Support
 Limited funding is available to support the travel of students to attend the workshop held at ICLR 2023. Awards are based on merit with additional consideration based on need and travel distance. Priority will be given to those whose papers are accepted for presentation at the workshop.
 
-The deadline for submitting this application is February 26, 11:59pm Anywhere on Earth.
+The deadline for submitting this application was February 26, 11:59pm Anywhere on Earth.
 
 [Application form link](https://docs.google.com/forms/d/e/1FAIpQLSdW719hQudD-LjxfjiJJ8fP8LBaVm4wi-WcnrEik8Pkh2ZgOw/viewform)
 
@@ -119,10 +119,13 @@ The deadline for submitting this application is February 26, 11:59pm Anywhere on
 If you or your organization is interested in becoming a workshop sponsor, please see the [sponsorship prospectus](https://drive.google.com/file/d/1VNmYAoV3oefS1KvTCa9EbK6AbeOTCppB/view) and contact the organizing team using the email below.
 
 ### Platinum Sponsors
-<img src="https://www.freepnglogos.com/uploads/microsoft-logo-png-transparent-background-1.png" alt="Microsoft logo" width="512"/>
+<img src="https://www.freepnglogos.com/uploads/microsoft-logo-png-transparent-background-1.png" alt="Microsoft logo" width="412"/>
 
 ### Gold Sponsors
 <img src="https://www.grss-ieee.org/wp-content/uploads/2020/12/grss.png" alt="GRSS logo" width="200"/>
+
+### Silver Sponsors
+<img src="./images/astraea_logo_colored.svg" alt="astraea logo" width="400"/>
       
 ## Contact
 For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2023 please contact [ml4rs_iclr23@googlegroups.com](mailto:ml4rs_iclr23@googlegroups.com).
