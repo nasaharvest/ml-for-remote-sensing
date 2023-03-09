@@ -125,7 +125,7 @@ If you or your organization is interested in becoming a workshop sponsor, please
 <img src="https://www.grss-ieee.org/wp-content/uploads/2020/12/grss.png" alt="GRSS logo" width="200"/>
 
 ### Silver Sponsors
-<img src="https://uploads-ssl.webflow.com/61d6ecf35eecc32d817e784b/62964b32be95ca435bbe07f8_Logo_white.svg" alt="astraea logo" width="400"/>
+<img src="./images/astraea_logo_colored.svg" alt="astraea logo" width="400"/>
       
 ## Contact
 For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2023 please contact [ml4rs_iclr23@googlegroups.com](mailto:ml4rs_iclr23@googlegroups.com).
