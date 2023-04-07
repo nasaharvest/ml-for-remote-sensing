@@ -6,8 +6,8 @@ Remote sensing data (also referred to as Earth observation or satellite data) ha
 
 ## Call for Papers
 **Important Dates**
-- Submission Deadline - February 05, 2023 (11:59 pm AoE)
-- Acceptance Notification - March 03, 2023
+- ~~Submission Deadline - February 05, 2023 (11:59 pm AoE)~~
+- ~~Acceptance Notification - March 03, 2023~~
 - Workshop - May 05, 2023
 
 **Topics Covered**
@@ -52,6 +52,29 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 | 16:30      | Poster session                                           |
 | 17:30      | Adjourn                                                  |
 
+**Accepted Papers**
+
+|              | Paper Title           | Authors |
+|--------------|-----------------------|---------|
+| Oral (9:40)  | Towards Explainable Land Cover Mapping: a Counterfactual-based Strategy | Cassio F. Dantas, Diego Marcos, Dino Ienco |
+| Oral (9:40) | Enhancing Acoustic Classification using Meta-Data | Lorène LJ Jeantet, Emmanuel Dufourq |
+| Oral (9:40) | Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping | Burak Ekim, Michael Schmitt |
+| Oral (9:40) | Mask Conditional Synthetic Satellite Imagery | Zixi Chen, Van Anh Le, Mengyuan Li, Varshini Reddy Bogolu, Xinran Tang, Simone Fobi, Anthony Ortiz, Caleb Robinson |
+| Oral (9:40) | Optimizing ecological restoration efforts to improve landscape connectivity | Michael D Catchen, Michelle Lin, Timothée Poisot, Andrew Gonzalez |
+| Oral (15:30) | Urban-rural disparities in satellite-based poverty prediction | Emily L Aiken, Esther Rolf, Joshua Blumenstock |
+| Oral (15:30)  | Linking population data to high resolution maps: a case study in Burkina Faso | Basile Rousse, Sylvain Lobry, Géraldine Duthé, Valérie Golaz, Laurent Wendling |
+| Oral (15:30) | Polygonizer: An auto-regressive building delineator | Maxim Khomiakov, Michael Andersen, Jes Frellsen |
+| Poster | Aerial View Localization with Reinforcement Learning: Towards Emulating Search-and-Rescue | Aleksis Pirinen, Anton Samuelsson, John Backsund, Karl Åström |
+| Poster | Improved marine debris detection in satellite imagery with an automatic refinement of coarse hand annotations | Marc Rußwurm, Dilge Gül, Devis Tuia |
+| Poster | Titan Cloud Identification with Deep Transfer Learning | Zachary R Yahn, Conor Nixon, John W Santerre, Douglas Trent, Ethan Duncan |
+| Poster | Evaluation Challenges for Geospatial ML | Esther Rolf |
+| Poster | Building Light Models with Competitive Performance for Remote Sensing | Olga Garces Ciemerozum, Javier Marin |
+| Poster | Unsupervised Domain Adaptation for semantic segmentation of dwellings with Unbalanced Optimal Transport | Pratichhya Sharma, Nicolas Courty, Getachew Workineh Gella, Stefan Lang |
+| Poster | Efficient Ship Detection on Large Open Sea Areas | Aitor Jara García, Javier Marin |
+| Poster | Remote Control: Debiasing Remote Sensing Predictions for Causal Inference | Megan Ayers |
+| Poster | Improve State-Level Wheat Yield Forecasts in Kazakhstan on GEOGLAM’S EO Data by Leveraging a Simple Spatial-Aware Technique | Anh N Nhu, Ritvik Sahajpal, Christina Justice, Inbal Becker-Reshef |
+| Poster | Pixel-wise t-test: a new algorithm for persistent building damage detection in synthetic aperture radar imagery | Ollie Ballinger, Gennadii Donchtys |
+
 ## Speakers
 - [Abigail Annkah](https://research.google/people/106787/), Research Software Engineer at Google AI
 - [Joyce Nakatumba-Nabende](https://sites.google.com/view/jnabende/home), Lecturer and Head of Makerere AI Lab, Makerere University
@@ -61,12 +84,12 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 
 ## Organizers
 - Hannah Kerner (Arizona State University)
-- Catherine Nakalembe (University of Maryland) 
+- Catherine Nakalembe (University of Maryland)
 - Gabriel Tseng (McGill / Mila - Quebec AI institute)
 - Ivan Zvonkov (University of Maryland)
-- Gedeon Muhawenayo (Rwanda Space Agency) 
+- Gedeon Muhawenayo (Rwanda Space Agency)
 - Moise Busogi (Carnegie Mellon University Africa)
-- Ange Tesire Marie (Rwanda Space Agency) 
+- Ange Tesire Marie (Rwanda Space Agency)
 - Hamed Alemohammad (Clark University, previously Radiant Earth Foundation)
 - Ronny Hänsch (German Aerospace Center (DLR) / GRSS)
 
@@ -126,6 +149,6 @@ If you or your organization is interested in becoming a workshop sponsor, please
 
 ### Silver Sponsors
 <img src="./images/astraea_logo_colored.svg" alt="astraea logo" width="400"/>
-      
+
 ## Contact
 For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2023 please contact [ml4rs_iclr23@googlegroups.com](mailto:ml4rs_iclr23@googlegroups.com).
