@@ -58,13 +58,13 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 |              | Paper Title           | Authors |
 |--------------|-----------------------|---------|
 | Oral (10:10)  | Towards Explainable Land Cover Mapping: a Counterfactual-based Strategy | Cassio F. Dantas, Diego Marcos, Dino Ienco |
-| Oral (10:10) | Enhancing Acoustic Classification using Meta-Data | Lorène LJ Jeantet, Emmanuel Dufourq |
-| Oral (10:10) | Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping | Burak Ekim, Michael Schmitt |
-| Oral (10:10) | Mask Conditional Synthetic Satellite Imagery | Zixi Chen, Van Anh Le, Mengyuan Li, Varshini Reddy Bogolu, Xinran Tang, Simone Fobi, Anthony Ortiz, Caleb Robinson |
-| Oral (10:10) | Optimizing ecological restoration efforts to improve landscape connectivity | Michael D Catchen, Michelle Lin, Timothée Poisot, Andrew Gonzalez |
+| Oral (10:20) | Enhancing Acoustic Classification using Meta-Data | Lorène LJ Jeantet, Emmanuel Dufourq |
+| Oral (10:30) | Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping | Burak Ekim, Michael Schmitt |
+| Oral (10:40) | Mask Conditional Synthetic Satellite Imagery | Zixi Chen, Van Anh Le, Mengyuan Li, Varshini Reddy Bogolu, Xinran Tang, Simone Fobi, Anthony Ortiz, Caleb Robinson |
+| Oral (10:50) | Optimizing ecological restoration efforts to improve landscape connectivity | Michael D Catchen, Michelle Lin, Timothée Poisot, Andrew Gonzalez |
 | Oral (15:00) | Urban-rural disparities in satellite-based poverty prediction | Emily L Aiken, Esther Rolf, Joshua Blumenstock |
-| Oral (15:00)  | Linking population data to high resolution maps: a case study in Burkina Faso | Basile Rousse, Sylvain Lobry, Géraldine Duthé, Valérie Golaz, Laurent Wendling |
-| Oral (15:00) | Polygonizer: An auto-regressive building delineator | Maxim Khomiakov, Michael Andersen, Jes Frellsen |
+| Oral (15:10)  | Linking population data to high resolution maps: a case study in Burkina Faso | Basile Rousse, Sylvain Lobry, Géraldine Duthé, Valérie Golaz, Laurent Wendling |
+| Oral (15:20) | Polygonizer: An auto-regressive building delineator | Maxim Khomiakov, Michael Andersen, Jes Frellsen |
 | Poster | Aerial View Localization with Reinforcement Learning: Towards Emulating Search-and-Rescue | Aleksis Pirinen, Anton Samuelsson, John Backsund, Karl Åström |
 | Poster | Improved marine debris detection in satellite imagery with an automatic refinement of coarse hand annotations | Marc Rußwurm, Dilge Gül, Devis Tuia |
 | Poster | Titan Cloud Identification with Deep Transfer Learning | Zachary R Yahn, Conor Nixon, John W Santerre, Douglas Trent, Ethan Duncan |
