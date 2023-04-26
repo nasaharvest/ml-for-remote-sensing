@@ -82,9 +82,13 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 - [Amy Bray](https://www.linkedin.com/in/amyflorida626), Competition Lead and Data Scientist at Zindi Africa
 
 ## Panel speakers
-- [Francis Ngabo](https://rw.linkedin.com/in/francis-ngabo-b5a9b2216), CEO of Rwanda Space Agency
-- [Tim Brown](https://www.africa.engineering.cmu.edu/about/contact/directory/bios/brown-tim.html), Director of Kigali Collaborative Research Center
-- More coming soon!
+- Challenges & opportunities for ML + RS in Africa
+  - [Francis Ngabo](https://rw.linkedin.com/in/francis-ngabo-b5a9b2216), CEO of Rwanda Space Agency
+  - [Tim Brown](https://www.africa.engineering.cmu.edu/about/contact/directory/bios/brown-tim.html), Director of Kigali Collaborative Research Center
+- Bridging the gap between research & deployment
+  - [Gabriel Tseng](https://gabrieltseng.github.io/) (moderator), PhD Student at Mila and ML Engineer at NASA Harvest
+  - [Esther Rolf](https://www.estherrolf.com/), Postdoctoral Fellow at Harvard University
+  - [Kristof Van Tricht](https://remotesensing.vito.be/team/kristof-van-tricht), Remote Sensing Researcher at VITO
 
 ## Organizers
 - Hannah Kerner (Arizona State University)
