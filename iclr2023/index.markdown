@@ -38,7 +38,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 
 | Start time | Topic                                                    |
 | ---------- | -------------------------------------------------------- |
-| 9:00       | Introduction and opening remarks                         |
+| 9:00       | Opening Remarks: Anthony Ortiz (Microsoft)               |
 | 9:10       | Keynote speaker: Amy Bray (Zindi)                        |
 | 9:40       | Coffee break                                             |
 | 10:10      | Accepted paper oral talks (5 x 10 min each w/ questions) |
@@ -90,6 +90,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
   - [Esther Rolf](https://www.estherrolf.com/), Postdoctoral Fellow at Harvard University
   - [Kristof Van Tricht](https://remotesensing.vito.be/team/kristof-van-tricht), Remote Sensing Researcher at VITO
   - [Abigail Annkah](https://research.google/people/106787/), Research Software Engineer at Google AI
+  - [Anthony Ortiz](https://www.anthonymlortiz.com/), Sr. Applied Research Scientist at Microsoft AI for Good Research
 
 ## Organizers
 - Hannah Kerner (Arizona State University)
