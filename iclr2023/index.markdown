@@ -89,6 +89,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
   - [Gabriel Tseng](https://gabrieltseng.github.io/) (moderator), PhD Student at Mila and ML Engineer at NASA Harvest
   - [Esther Rolf](https://www.estherrolf.com/), Postdoctoral Fellow at Harvard University
   - [Kristof Van Tricht](https://remotesensing.vito.be/team/kristof-van-tricht), Remote Sensing Researcher at VITO
+  - [Abigail Annkah](https://research.google/people/106787/), Research Software Engineer at Google AI
 
 ## Organizers
 - Hannah Kerner (Arizona State University)
