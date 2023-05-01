@@ -85,6 +85,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 - Challenges & opportunities for ML + RS in Africa
   - [Francis Ngabo](https://rw.linkedin.com/in/francis-ngabo-b5a9b2216), CEO of Rwanda Space Agency
   - [Tim Brown](https://www.africa.engineering.cmu.edu/about/contact/directory/bios/brown-tim.html), Director of Kigali Collaborative Research Center
+  - [Lilian Ndungu](https://www.linkedin.com/in/lilian-ndungu-9ba48918/?originalSubdomain=ke)
 - Bridging the gap between research & deployment
   - [Gabriel Tseng](https://gabrieltseng.github.io/) (moderator), PhD Student at Mila and ML Engineer at NASA Harvest
   - [Esther Rolf](https://www.estherrolf.com/), Postdoctoral Fellow at Harvard University
