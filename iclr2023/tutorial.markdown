@@ -28,13 +28,13 @@ The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. T
 | 17:10      | Guide to post-tutorial resources for continuing your journey in ML+RS | Hannah, Gabi, Ivan |
 
 ## Instructors
-- Hannah Kerner (Arizona State University)
-- Catherine Nakalembe (University of Maryland)
-- Gabriel Tseng (McGill / Mila - Quebec AI institute)
-- Ivan Zvonkov (University of Maryland)
+- [Hannah Kerner](https://hannah-rae.github.io/) (Arizona State University)
+- [Catherine Nakalembe](https://www.catherinenakalembe.com/) (University of Maryland)
+- [Gabriel Tseng](https://gabrieltseng.github.io/) (McGill / Mila - Quebec AI institute)
+- [Ivan Zvonkov](https://ivanzvonkov.github.io/) (University of Maryland)
 - Gedeon Muhawenayo (Rwanda Space Agency)
 - Moise Busogi (Carnegie Mellon University Africa)
-- Marc Rußwurm (EPFL)
+- [Marc Rußwurm](https://marcrusswurm.com/) (EPFL)
 
 ## Resources for continuing your ML+RS journey post-workshop
 - coming soon!
