@@ -1,6 +1,3 @@
----
-layout: iclr2023
----
 # Machine Learning for Remote Sensing Tutorial
 The Machine Learning for Remote Sensing Summit in Kigali 2023, co-organized by NASA Harvest and CMU and hosted by CMU-Africa, aims to provide an extensive tutorial and workshop on the application of machine learning techniques in remote sensing data analysis, particularly in the agricultural sector. The tutorial covers various topics, such as an overview of remote sensing and machine learning methods, creating and curating labeled datasets, use cases and example methods for AI-EO in agriculture, evaluation of machine learning models, and case studies on cropland and crop type mapping. 
 
