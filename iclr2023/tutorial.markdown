@@ -39,6 +39,7 @@ The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. T
 ## Resources for continuing your ML+RS journey post-workshop
 - [An Introduction to Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction): The canonical introduction to machine learning.
 - [Practical Deep Learning for Coders (fast.ai)](https://course.fast.ai/): A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems. There is also a [part 2](https://course.fast.ai/Lessons/part2.html) for those with some experience.
+- [Google Foundational Courses](https://developers.google.com/machine-learning): The foundational courses cover machine learning fundamentals and core concepts.
 - [The State of Satellites](https://landscape.satsummit.io/): A guide to the current state of satellite remote sensing technology, including applications and analysis.
 - [NASA ARSET](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset): Applied Remote SEnsing Training (ARSET) program offers free online and in person courses for learning about remote sensing technologies, including ML for remote sensing.
 - Radiant Earth Foundation's ML for Remote Sensing Bootcamp: Course materials are freely available on [Github](https://github.com/radiantearth/ml4eo-bootcamp-2021) and [YouTube](https://www.youtube.com/watch?v=vgDPoS3i8Tc&list=PL3QzFgBMGnbRREwZWFPpaFN1WLXKUW6a7).
