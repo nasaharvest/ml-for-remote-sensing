@@ -14,7 +14,7 @@ The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. T
 | 10:00      | Buses leave from Kigali Convention Center                |                              |
 | 11:00      | Lunch and [pre-tutorial survey](https://forms.gle/Dh48tX8cTZgv8u8t9)                    |
 | 12:30      | Introductory remarks and keynote                         | Moise Busogi, CMU            |
-| 13:00      | Overview of remote sensing data                          | Hannah Kerner                |
+| 13:00      | Overview of remote sensing data [[slides](https://docs.google.com/presentation/d/e/2PACX-1vSsaX5ICC_wphrY7vvLmvv2eCrfHqTKXoMy4DIK-GIC0MRhyogyKtv_qrkAbj5ZX3MDvbK-fNXdNK-o/pub?start=false&loop=false&delayms=3000)]                         | Hannah Kerner                |
 | 13:20      | Overview of machine learning methods                     | Gabi Tseng                   |
 | 13:40      | Considerations for ML and remote sensing data [[slides](https://docs.google.com/presentation/d/e/2PACX-1vQ4WCS4BntgpSsze-gTog9AIHbh4KQp5M9PwYBPb8UUElba1y5AMR3ge1b05p8lqTSdaeo8swGKZa1y/pub?start=false&loop=false&delayms=3000)]            | Ivan Zvonkov                 |
 | 14:00      | Q&A                                                      | Hannah, Gabi, Ivan           |
