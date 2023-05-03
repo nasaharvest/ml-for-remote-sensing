@@ -1,5 +1,5 @@
 # Machine Learning for Remote Sensing Tutorial
-The Machine Learning for Remote Sensing Summit in Kigali 2023, co-organized by NASA Harvest and CMU and hosted by CMU-Africa, aims to provide an extensive tutorial and workshop on the application of machine learning techniques in remote sensing data analysis, particularly in the agricultural sector. The tutorial covers various topics, such as an overview of remote sensing and machine learning methods, creating and curating labeled datasets, use cases and example methods for AI-EO in agriculture, evaluation of machine learning models, and case studies on cropland and crop type mapping. 
+The Machine Learning for Remote Sensing Summit in Kigali 2023, co-organized by NASA Harvest and CMU and hosted by CMU-Africa, aims to provide an extensive tutorial and workshop on the application of machine learning techniques in remote sensing data analysis, particularly in the agricultural sector. The tutorial covers various topics, such as an overview of remote sensing and machine learning methods, creating and curating labeled datasets, use cases and example methods for AI-EO in agriculture, evaluation of machine learning models, and case studies on cropland and crop type mapping.
 
 The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. Tutorial participants will also have an opportunity on May 5 to attend the [Machine Learning for Remote Sensing Workshop](https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023/) at the [International Conference on Learning Reprsentations (ICLR)](https://iclr.cc/), a top ML conference held in Kigali in 2023.
 
@@ -37,4 +37,5 @@ The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. T
 - [Marc Rußwurm](https://marcrusswurm.com/) (EPFL)
 
 ## Resources for continuing your ML+RS journey post-workshop
-- coming soon!
+- [An Introduction to Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction): The canonical introduction to machine learning.
+- [Practical Deep Learning for Coders (fast.ai)](https://course.fast.ai/): A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems. There is also a [part 2](https://course.fast.ai/Lessons/part2.html) for those with some experience.
