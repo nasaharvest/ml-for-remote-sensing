@@ -18,7 +18,7 @@ The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. T
 | 13:20      | Overview of machine learning methods                     | Gabi Tseng                   |
 | 13:40      | Considerations for ML and remote sensing data [[slides](https://docs.google.com/presentation/d/e/2PACX-1vQ4WCS4BntgpSsze-gTog9AIHbh4KQp5M9PwYBPb8UUElba1y5AMR3ge1b05p8lqTSdaeo8swGKZa1y/pub?start=false&loop=false&delayms=3000)]            | Ivan Zvonkov                 |
 | 14:00      | Q&A                                                      | Hannah, Gabi, Ivan           |
-| 14:20      | Coffee/tea and networking break                          |                              |
+| 14:20      | Coffee/tea and [networking break](https://docs.google.com/presentation/d/e/2PACX-1vR2F1lmmffd2qQ4hXkPwd0ldhiPUkb2gvob-x29F9SXXClITmDCc9GqY3e_s2KX7XsgqDkDjufRGg_c/pub?start=false&loop=false&delayms=3000)                          |                              |
 | 15:00      | Earth observations for agriculture in Africa             | Catherine Nakalembe          |
 | 15:15      | Use cases for ML+RS in agriculture, with focus on Africa | Hannah Kerner                |
 | 15:30      | Considerations for ML+RS for agriculture in Africa       | Catherine Nakalembe          |
