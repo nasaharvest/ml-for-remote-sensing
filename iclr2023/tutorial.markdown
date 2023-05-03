@@ -23,7 +23,7 @@ The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. T
 | 15:15      | Use cases for ML+RS in agriculture, with focus on Africa | Hannah Kerner                |
 | 15:30      | Considerations for ML+RS for agriculture in Africa       | Catherine Nakalembe          |
 | 15:40      | Case study: NASA Harvest approach to cropland and crop type mapping    | Ivan Zvonkov   |
-| 16:10      | Case study: ML4RS: Predictions to Actionable Insights    | Gedeon Muhawenyo             |
+| 16:10      | Case study: ML4RS: Predictions to Actionable Insights    | Gedeon Muhawenayo             |
 | 16:40      | Case study: Marine debris detection with noisy annotations using Sentinel-2 | Marc Rußwurm |
 | 17:10      | Guide to post-tutorial resources for continuing your journey in ML+RS | Hannah, Gabi, Ivan |
 
@@ -32,7 +32,7 @@ The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. T
 - [Catherine Nakalembe](https://www.catherinenakalembe.com/) (University of Maryland)
 - [Gabriel Tseng](https://gabrieltseng.github.io/) (McGill / Mila - Quebec AI institute)
 - [Ivan Zvonkov](https://ivanzvonkov.github.io/) (University of Maryland)
-- [Gedeon Muhawenyo](https://gedeonmuhawenayo.github.io/) (Rwanda Space Agency)
+- [Gedeon Muhawenayo](https://gedeonmuhawenayo.github.io/) (Rwanda Space Agency)
 - [Moise Busogi](https://engineering.cmu.edu/directory/bios/busogi-moise.html) (Carnegie Mellon University Africa)
 - [Marc Rußwurm](https://marcrusswurm.com/) (EPFL)
 
