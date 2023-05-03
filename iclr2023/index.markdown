@@ -79,7 +79,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 ## Keynote speakers
 - [Abigail Annkah](https://research.google/people/106787/), Research Software Engineer at Google AI
 - [Joyce Nakatumba-Nabende](https://sites.google.com/view/jnabende/home), Lecturer and Head of Makerere AI Lab, Makerere University
-- [Amy Bray](https://www.linkedin.com/in/amyflorida626), Competition Lead and Data Scientist at Zindi Africa
+- [Kristof Van Tricht](https://remotesensing.vito.be/team/kristof-van-tricht), Remote Sensing Researcher at VITO
 
 ## Panel speakers
 - Challenges & opportunities for ML + RS in Africa
