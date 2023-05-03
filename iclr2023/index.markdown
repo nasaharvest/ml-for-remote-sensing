@@ -39,7 +39,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 | Start time | Topic                                                    |
 | ---------- | -------------------------------------------------------- |
 | 9:00       | Opening Remarks: Anthony Ortiz (Microsoft)               |
-| 9:10       | Keynote speaker: Amy Bray (Zindi)                        |
+| 9:10       | Keynote: "WorldCereal: making global crop maps and learning from the experience", Kristof Van Tricht (VITO)      |
 | 9:40       | Coffee break                                             |
 | 10:10      | Accepted paper oral talks (5 x 10 min each w/ questions) |
 | 11:00      | Panel: Challenges & opportunities for ML + RS in Africa  |
@@ -49,7 +49,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 | 14:30      | Coffee break                                             |
 | 15:00      | Accepted paper oral talks (3 x 10 min each w/ questions) |
 | 15:30      | Poster session                                           |
-| 16:00      | Keynote speaker: Joyce Nakatumba-Nabende (Makerere AI)   |
+| 16:00      | Keynote: "Application of Artificial Intelligence using Earth Observation for land use in Uganda", Joyce Nakatumba-Nabende (Makerere AI)   |
 | 16:30      | Panel: Bridging the gap between research & deployment    |
 | 17:30      | Adjourn                                                  |
 
