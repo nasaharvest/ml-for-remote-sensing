@@ -32,8 +32,8 @@ The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. T
 - [Catherine Nakalembe](https://www.catherinenakalembe.com/) (University of Maryland)
 - [Gabriel Tseng](https://gabrieltseng.github.io/) (McGill / Mila - Quebec AI institute)
 - [Ivan Zvonkov](https://ivanzvonkov.github.io/) (University of Maryland)
-- Gedeon Muhawenayo (Rwanda Space Agency)
-- Moise Busogi (Carnegie Mellon University Africa)
+- [Gedeon Muhawenyo](https://gedeonmuhawenayo.github.io/) (Rwanda Space Agency)
+- [Moise Busogi](https://engineering.cmu.edu/directory/bios/busogi-moise.html) (Carnegie Mellon University Africa)
 - [Marc Rußwurm](https://marcrusswurm.com/) (EPFL)
 
 ## Resources for continuing your ML+RS journey post-workshop
