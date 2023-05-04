@@ -43,7 +43,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 | 9:40       | Coffee break                                             |
 | 10:10      | Accepted paper oral talks (5 x 10 min each w/ questions) |
 | 11:00      | Panel: Challenges & opportunities for ML + RS in Africa  |
-| 12:00      | Lunch (opportunity to visit posters)                     |
+| 12:00      | Lunch                     |
 | 13:30      | Keynote: "Mapping the built up environment of Africa and beyond", Abigail Annkah (Google)                 |
 | 14:00      | Poster session                                           |
 | 14:30      | Coffee break                                             |
