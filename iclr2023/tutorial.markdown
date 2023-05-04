@@ -11,7 +11,7 @@ The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. T
 
 | Start time | Topic                                                    | Instructor                   |
 | ---------- | -------------------------------------------------------- |------------------------------|
-| 10:00      | Buses leave from Kigali Convention Center                |                              |
+| 10:00      | Buses pick up and arrive at CMU                |                              |
 | 11:00      | Lunch and [pre-tutorial survey](https://forms.gle/Dh48tX8cTZgv8u8t9)                    |
 | 12:30      | Introductory remarks and keynote                         | Moise Busogi, CMU            |
 | 13:00      | Overview of remote sensing data [[slides](https://docs.google.com/presentation/d/e/2PACX-1vSsaX5ICC_wphrY7vvLmvv2eCrfHqTKXoMy4DIK-GIC0MRhyogyKtv_qrkAbj5ZX3MDvbK-fNXdNK-o/pub?start=false&loop=false&delayms=3000)]                         | Hannah Kerner                |
@@ -26,6 +26,7 @@ The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. T
 | 16:10      | Case study: ML4RS: Predictions to Actionable Insights    | Gedeon Muhawenayo             |
 | 16:40      | Case study: Marine debris detection with noisy annotations using Sentinel-2 | Marc Rußwurm |
 | 17:10      | Guide to post-tutorial resources for continuing your journey in ML+RS | Hannah, Gabi, Ivan |
+| 17:20      | Buses leave CMU | |
 
 ## Instructors
 - [Hannah Kerner](https://hannah-rae.github.io/) (Arizona State University)
