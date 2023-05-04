@@ -153,6 +153,7 @@ The deadline for submitting this application was February 26, 11:59pm Anywhere o
 If you or your organization is interested in becoming a workshop sponsor, please see the [sponsorship prospectus](https://drive.google.com/file/d/1VNmYAoV3oefS1KvTCa9EbK6AbeOTCppB/view) and contact the organizing team using the email below.
 
 ### Platinum Sponsors
+<img src="https://www.cmu.edu/news/stories/archives/2019/august/images/cmu_africa_unitmark_stacked_red_and_gray_600px-min.jpg" alt="CMU Africa logo" width="200"/>
 <img src="https://www.freepnglogos.com/uploads/microsoft-logo-png-transparent-background-1.png" alt="Microsoft logo" width="412"/>
 
 ### Gold Sponsors
