@@ -19,9 +19,7 @@ The tutorial will take place on Thursday, May 4, 2023 at CMU Africa in Kigali. T
 | 13:40      | Considerations for ML and remote sensing data [[slides](https://docs.google.com/presentation/d/e/2PACX-1vQ4WCS4BntgpSsze-gTog9AIHbh4KQp5M9PwYBPb8UUElba1y5AMR3ge1b05p8lqTSdaeo8swGKZa1y/pub?start=false&loop=false&delayms=3000)]            | Ivan Zvonkov                 |
 | 14:00      | Q&A                                                      | Hannah, Gabi, Ivan           |
 | 14:20      | Coffee/tea and [networking break](https://docs.google.com/presentation/d/e/2PACX-1vR2F1lmmffd2qQ4hXkPwd0ldhiPUkb2gvob-x29F9SXXClITmDCc9GqY3e_s2KX7XsgqDkDjufRGg_c/pub?start=false&loop=false&delayms=3000)                          |                              |
-| 15:00      | Earth observations for agriculture in Africa             | Catherine Nakalembe          |
-| 15:15      | Use cases for ML+RS in agriculture, with focus on Africa | Hannah Kerner                |
-| 15:30      | Considerations for ML+RS for agriculture in Africa       | Catherine Nakalembe          |
+| 15:00      | ML + Earth observations for agriculture in Africa [[slides](https://docs.google.com/presentation/d/e/2PACX-1vSf38k5Ph2zzUm6NjV0Uh9X8p55o_P0UbLZoD59FON8zLfZcQtFwSgmApQj7agJw5lVOrk6WyJW517a/pub?start=false&loop=false&delayms=3000)]            | Catherine Nakalembe, Hannah Kerner          |
 | 15:40      | Case study: NASA Harvest approach to cropland and crop type mapping [[slides](https://docs.google.com/presentation/d/e/2PACX-1vSJHrvWsxjcB6JHj2Cu8PMbSYO83AFJnBS-BAEYpm5bKJ2URXNpAi9A5E0mGT3myxmlDZOpBXBz8uMf/pub?start=false&loop=false&delayms=3000)]    | Ivan Zvonkov   |
 | 16:10      | Case study: ML4RS: Predictions to Actionable Insights    | Gedeon Muhawenayo             |
 | 16:40      | Case study: Marine debris detection with noisy annotations using Sentinel-2 | Marc Rußwurm |
