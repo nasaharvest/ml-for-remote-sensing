@@ -83,7 +83,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 
 ## Panel speakers
 - Challenges & opportunities for ML + RS in Africa
-  - [Francis Ngabo](https://rw.linkedin.com/in/francis-ngabo-b5a9b2216), CEO of Rwanda Space Agency
+  - [Georges Kwizera](https://www.linkedin.com/in/georges-kwizera-8334391b3/), CTO of Rwanda Space Agency
   - [Tim Brown](https://www.africa.engineering.cmu.edu/about/contact/directory/bios/brown-tim.html), Director of Kigali Collaborative Research Center
   - [Lilian Ndungu](https://www.linkedin.com/in/lilian-ndungu-9ba48918/?originalSubdomain=ke)
 - Bridging the gap between research & deployment
