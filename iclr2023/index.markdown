@@ -1,14 +1,14 @@
 ---
 layout: iclr2023
 ---
-# Machine Learning for Remote Sensing
+# Machine Learning for Remote Sensing Workshop
 Remote sensing data (also referred to as Earth observation or satellite data) has become an increasingly popular modality for machine learning research. This interest has largely been driven by the opportunities that remote sensing data present for contributing to challenges urgently important to society, such as climate change, food security, conservation, disasters, and poverty. This growing interest in ML research for remote sensing data is also driven by the challenges presented by its unique characteristics compared to other data modalities (e.g., images, text, video). Remote sensing datasets are very high-dimensional and often have spatial, temporal, and spectral dimensions more complex than traditional RGB images or videos. The diversity of instruments used for observing the Earth at different wavelengths, temporal cadences, and spatial resolutions has driven active research in domain adaptation, data fusion, and other topic areas. In this workshop, we aim to stimulate and highlight research on new methods, datasets, and systems for machine learning for remote sensing data and especially encourage submissions and discussions about research in the African context.
 
 ## Call for Papers
 **Important Dates**
 - ~~Submission Deadline - February 05, 2023 (11:59 pm AoE)~~
 - ~~Acceptance Notification - March 03, 2023~~
-- Workshop - May 05, 2023
+- ~~Workshop - May 05, 2023~~ Thanks to everyone who participated in and presented at our workshop!
 
 **Topics Covered**
 
