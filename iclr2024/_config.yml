@@ -1,6 +1,6 @@
-title: ICLR2023
-description: ICLR 2023 Machine Learning for Remote Sensing Workshop
-baseurl: "/iclr2023"
+title: ICLR2024
+description: "ICLR 2024 Machine Learning for Remote Sensing Workshop"
+baseurl: "/iclr2024"
 url: "https://ml-for-rs.github.io/ml-for-remote-sensing"
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
