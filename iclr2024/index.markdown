@@ -134,13 +134,15 @@ The deadline for submitting this application was February 26, 11:59pm Anywhere o
 
 We are looking for more sponsors. Please contact us per email if you would like to support this workshop.
 
-### Platinum Sponsors <!-- 3000 EUR -->
+### Platinum Sponsors <!-- > 3000 EUR -->
+
+### Gold Sponsors <!-- 3000 EUR -->
 
 <img src="./images/sponsors/esa.png" alt="ESA" height="200px"/>
 
-### Gold Sponsors <!-- 1000 EUR -->
+### Silver Sponsors <!-- 1000 EUR -->
 
-### Silver Sponsors <!-- 500 EUR -->
+### Bronce Sponsors <!-- < 500 EUR -->
 
 ## Contact
 For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2024 please contact [ml4rs_iclr24@googlegroups.com](mailto:ml4rs_iclr24@googlegroups.com).
