@@ -25,7 +25,7 @@ Papers can present methodological innovations designed towards a particular prob
 
 ### Paper Format
 
-We short papers describing new and ongoing/in progress research of **4 pages**. Page limits do not include references, which are unlimited. Papers will be **non-archival**. To prepare your submission, please use the [LaTeX style files for ICLR 2024](https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip). Paper reviews will be **double blind**. When submitting your manuscript, make sure you do not include any personally-identifying information such as author names or Github links which would de-anonymize the submission.
+We invite short papers describing new and ongoing/in progress research of **4 pages**. Page limits do not include references, which are unlimited. Papers will be **non-archival**. To prepare your submission, please use the [LaTeX style files for ICLR 2024](https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip). Paper reviews will be **double blind**. When submitting your manuscript, make sure you do not include any personally-identifying information such as author names or GitHub links which would de-anonymize the submission.
 
 Machine Learning for Remote Sensing is non-archival and thus dual submission is allowed where permitted by third parties.
 
