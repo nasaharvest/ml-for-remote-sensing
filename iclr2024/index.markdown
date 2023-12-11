@@ -79,7 +79,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 - [Ribana Roscher](https://rs.ipb.uni-bonn.de/people/prof-dr-ing-ribana-roscher/) (Forschungszentrum Jülich)
 - [Charlotte Pelletier](https://sites.google.com/site/charpelletier/home) (Université Bretagne Sud)
 - [Gabriel Tseng](https://gabrieltseng.github.io/) (McGill / Mila - Quebec AI institute)
-- [Gedeon Muhawenayo](https://gedeonmuhawenayo.github.io/) (Rwanda Space Agency)
+- [Gedeon Muhawenayo](https://gedeonmuhawenayo.github.io/) (Arizona State University)
 - [Hamed Alemohammad](https://hamedalemo.github.io/) (Clark University, previously Radiant Earth Foundation)
 - [Ronny Hänsch](http://www.rhaensch.de/) (German Aerospace Center (DLR) / GRSS)
 
@@ -140,7 +140,7 @@ We are looking for more sponsors. Please contact us per email if you would like 
 
 ### Gold Sponsors <!-- 3000 EUR -->
 
-<img src="./images/sponsors/esa.png" alt="ESA" height="200px"/>
+<img src="./images/sponsors/esa.png" alt="ESA" width="200px"/>
 
 ### Silver Sponsors <!-- 1000 EUR -->
 
