@@ -1,4 +1,4 @@
-ruby-install -VGEM
+GEM
   remote: https://rubygems.org/
   specs:
     activesupport (6.0.6)

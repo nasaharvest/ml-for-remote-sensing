@@ -25,13 +25,17 @@ Papers can present methodological innovations designed towards a particular prob
 
 ### Paper Format
 
-We invite short papers describing new and ongoing/in progress research of **4 pages**. Page limits do not include references, which are unlimited. Papers will be **non-archival**. To prepare your submission, please use the [LaTeX style files for ICLR 2024](https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip). Paper reviews will be **double blind**. When submitting your manuscript, make sure you do not include any personally-identifying information such as author names or GitHub links which would de-anonymize the submission.
+We invite short papers describing new and ongoing/in progress research of **4 pages**. Page limits do not include references, which are unlimited. Papers will be **non-archival**. To prepare your submission, please use the [LaTeX style files for the ML4RS workshop ICLR 2024](https://www.overleaf.com/read/rmryxjvrkhyj#f5b22c). Paper reviews will be **double blind**. When submitting your manuscript, make sure you do not include any personally-identifying information such as author names or GitHub links which would de-anonymize the submission.
 
 Machine Learning for Remote Sensing is non-archival and thus dual submission is allowed where permitted by third parties.
 
-<!-- TBD
-**Submission site:** [https://cmt3.research.microsoft.com/ICLRMLRS2023](https://cmt3.research.microsoft.com/ICLRMLRS2023)
--->
+### Paper Submission
+
+Please submit your paper before the deadline (see important dates!) via CMT on the following submission site:
+
+- **Submission site:** [https://cmt3.research.microsoft.com/ML4RS2024](https://cmt3.research.microsoft.com/ML4RS2024)
+
+You can still edit your submission until the deadline.
 
 <!-- 
 ## Schedule 
@@ -81,45 +85,34 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 - [Hamed Alemohammad](https://hamedalemo.github.io/) (Clark University, previously Radiant Earth Foundation)
 - [Ronny Hänsch](http://www.rhaensch.de/) (German Aerospace Center (DLR) / GRSS)
 
-<!-- TBD
 ## Program Committee
 
-| Full name              | Organization                          |
-| --------------------- | ------------------------------------- |
-| Alex Hernandez-Garcia | Mila - Quebec AI Institute            |
-| Anthony Ortiz         | Microsoft                             |
-| Anthony Vodacek       | Rochester Institute of Technology     |
-|Arthur Ouaknine        | Telecom Paris                         |
-|Begum Demir            | TU Berlin                             |
-|Bertrand Le Saux       | ESA / Phi-lab                         |
-|Caleb Robinson         | Microsoft AI for Good Research Lab    |
-|Charlotte Pelletier    | Université de Bretagne du Sud         |
-|Christian Ayala        | Tracasa Instrumental                  |
-|Dalton Lunga           | Oak Ridge National Laboratory         |
-|Devis Tuia             | EPFL                                  |
-|Jan Dirk Wegner        | University of Zurich                  |
-|Jocelyn Chanussot      | Grenoble Institute of Technology      |
-|Jonathan Sullivan      | University of Arizona                 |
-|Kevin Booth            | Radiant Earth Foundation              |
-|Kristof Van Tricht     | VITO                                  |
-|Lewis Fishgold         | Azavea                                |
-|Loic Landrieu          | IGN                                   |
-|Lukas Kondmann         | German Aerospace Center               |
-|Marc Rußwurm           | École Polytechnique Fédérale de Lausanne|
-|Mark Wronkiewicz       | Jet Propulsion Laboratory             |
-|Nathan Jacobs          | Washington University in St. Louis    |
-|Patrick Gray           | Select One                            |
-|Pedram Ghamisi         | Helmholtz-Zentrum Dresden-Rossendorf  |
-|Qiusheng Wu            | University of Tennessee               |
-|Ritvik Sahajpal        | University of Maryland                |
-|Rohit Mukherjee        | The University of Arizona             |
-|Sergii Skakun          | University of Maryland                |
-|Subit Chakrabarti      | Cloud To Street                       |
-|Tyler Erickson         | independent                           |
-|VIvien Sainte Fare Garnot| University of Zurich                |
-|Zhiang Chen            | Arizona State University              |
-|Zhuangfang Yi          | Regrow                                |
--->
+We thank the program committee for being available to review the submitted papers!
+
+* Alex      Hernandez-Garcia    (Mila - Quebec AI Institute)
+* Anthony   Ortiz               (Microsoft)
+* Begum     Demir               (TU Berlin)
+* Bertrand  Le Saux             (ESA / Phi-lab)
+* Caleb     Robinson            (Microsoft AI for Good Research Lab)
+* Camille   Kurtz               (Universitersite Paris Cite)
+* Claudio   Persello            (University of Twente)
+* Diego     Marcos              (Inria)
+* Dino      Ienco               (INRAE)
+* Esther    Rolf                (Harvard & CU Boulder)
+* Gencer    Sumbul              (EPFL)
+* Ioannis   Athanasiadis        (Wageningen University and Research)
+* Jan Dirk  Wegner              (University of Zurich)
+* Javiera   Castillo Navarro    (EPFL)
+* KonstantinKlemmer             (Microsoft Research)
+* Kristof   Van Tricht          (VITO)
+* Loic      Landrieu            (ENPC)
+* Mariana   Belgiu              (University of Twente)
+* Mark      Wronkiewicz         (Jet Propulsion Laboratory)
+* Patrick   Ebel                (ESA)
+* Roberto   Interdonato         (CIRAD)
+* Sergii    Skakun              (University of Maryland)
+* Sylvain   Lobry               (Universitersite Paris Cite)
+* Vivien    Sainte Fare Garnot  (University of Zurich)
 
 <!-- TBD
 ## Travel Support
