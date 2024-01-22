@@ -35,7 +35,7 @@ Please submit your paper before the deadline (see important dates!) via CMT on t
 
 - **Submission site:** [https://cmt3.research.microsoft.com/ML4RS2024](https://cmt3.research.microsoft.com/ML4RS2024)
 
-You can still edit your submission until the deadline.
+You can still edit your submission until the deadline. You can also choose to submit a supplementary pdf alongside the 4-page paper. However, the reviewers are not required to look at the supplementary files.
 
 <!-- 
 ## Schedule 
@@ -125,6 +125,7 @@ We thank the program committee for being available to review the submitted paper
 * Sylvain   Lobry               (Universite Paris Cite)
 * Vivien    Sainte Fare Garnot  (University of Zurich)
 * Zhuangfang	Yi	(Regrow)
+
 <!-- TBD
 ## Travel Support
 Limited funding is available to support the travel of students to attend the workshop held at ICLR 2024. Awards are based on merit with additional consideration based on need and travel distance. Priority will be given to those whose papers are accepted for presentation at the workshop.
