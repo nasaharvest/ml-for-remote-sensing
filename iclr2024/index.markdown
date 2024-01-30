@@ -12,7 +12,7 @@ Outcomes from the first ML4RS workshop at ICLR 2023 in Kigali Rwanda can be foun
 
 ### Important Dates
 - Submission Deadline - February 3rd, 2024 (11:59 pm AoE)
-- Acceptance Notification - March 3rd, 2024
+- Acceptance Notification - **~~March 3rd, 2024~~ Extended: March 9th, 2024 23:59 AoE**
 - Workshop - May 11, 2024, [Vienna Exhibition & Congress Center](https://www.google.com/maps/place/Messe+Wien+Exhibition+Congress+Center/@48.217191,16.4090272,15z/data=!4m2!3m1!1s0x0:0x51b94dc6a5158516?sa=X&ved=2ahUKEwjD1tzSlIODAxVChP0HHZV-ChQQ_BJ6BAgPEAA)
 
 ### Topics
@@ -36,6 +36,14 @@ Please submit your paper before the deadline (see important dates!) via CMT on t
 - **Submission site:** [https://cmt3.research.microsoft.com/ML4RS2024](https://cmt3.research.microsoft.com/ML4RS2024)
 
 You can still edit your submission until the deadline. You can also choose to submit a supplementary pdf alongside the 4-page paper. However, the reviewers are not required to look at the supplementary files.
+
+
+### Travel Support
+Thanks to our sponsors, we have limited funding available to support the travel of students to attend the workshop held at ICLR 2024. Awards are based on merit with additional consideration based on need and travel distance. Priority will be given to those whose papers are accepted for presentation at the workshop.
+
+The deadline for submitting this application is March 3rd, 11:59pm Anywhere on Earth.
+
+[Application form link](https://forms.gle/uN3VC76iyfvVe8i48)
 
 <!-- 
 ## Schedule 
@@ -129,29 +137,24 @@ We thank the program committee for being available to review the submitted paper
 * Vivien    Sainte Fare Garnot  (University of Zurich)
 * Zhuangfang	Yi	(Regrow)
 
-<!-- TBD
-## Travel Support
-Limited funding is available to support the travel of students to attend the workshop held at ICLR 2024. Awards are based on merit with additional consideration based on need and travel distance. Priority will be given to those whose papers are accepted for presentation at the workshop.
-
-The deadline for submitting this application was February 26, 11:59pm Anywhere on Earth.
-
-[Application form link](https://docs.google.com/forms/d/e/1FAIpQLSdW719hQudD-LjxfjiJJ8fP8LBaVm4wi-WcnrEik8Pkh2ZgOw/viewform)
--->
-
 ## Sponsors
 
 We are looking for more sponsors. Please contact us per email if you would like to support this workshop.
 
-### Platinum Sponsors <!-- > 3000 EUR -->
+<!-- ### Platinum Sponsors  5000 EUR -->
 
 ### Gold Sponsors <!-- 3000 EUR -->
 
 <img src="./images/sponsors/hyperplan.png" alt="Hyperplan" width="500px"/>
 <img src="./images/sponsors/esa.png" alt="ESA" width="200px"/>
 
-### Silver Sponsors <!-- 1000 EUR -->
+<!-- ### Silver Sponsors 1000 EUR -->
 
-### Bronce Sponsors <!-- < 500 EUR -->
+<!-- ### Bronce Sponsors < 500 EUR -->
+
+### Technical Sponsors
+
+<img src="./images/sponsors/isprs.png" alt="ISPRS" width="200px"/>
 
 ## Contact
 For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2024 please contact [ml4rs_iclr24@googlegroups.com](mailto:ml4rs_iclr24@googlegroups.com).
