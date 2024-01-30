@@ -11,8 +11,8 @@ Outcomes from the first ML4RS workshop at ICLR 2023 in Kigali Rwanda can be foun
 ## Call for Papers
 
 ### Important Dates
-- Submission Deadline - February 3rd, 2024 (11:59 pm AoE)
-- Acceptance Notification - **~~March 3rd, 2024~~ Extended: March 9th, 2024 23:59 AoE**
+- Submission Deadline - ~~February 3rd, 2024~~ **Extended: February 9th, 2024 23:59 AoE** 
+- Acceptance Notification - March 3rd, 2024
 - Workshop - May 11, 2024, [Vienna Exhibition & Congress Center](https://www.google.com/maps/place/Messe+Wien+Exhibition+Congress+Center/@48.217191,16.4090272,15z/data=!4m2!3m1!1s0x0:0x51b94dc6a5158516?sa=X&ved=2ahUKEwjD1tzSlIODAxVChP0HHZV-ChQQ_BJ6BAgPEAA)
 
 ### Topics
