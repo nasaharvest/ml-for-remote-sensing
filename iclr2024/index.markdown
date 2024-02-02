@@ -147,6 +147,7 @@ We are looking for more sponsors. Please contact us per email if you would like 
 
 <img src="./images/sponsors/hyperplan.png" alt="Hyperplan" width="500px"/>
 <img src="./images/sponsors/esa.png" alt="ESA" width="200px"/>
+<img src="./images/sponsors/microsoft.png" alt="Microsoft" width="400px"/>
 
 <!-- ### Silver Sponsors 1000 EUR -->
 
