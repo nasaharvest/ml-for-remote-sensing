@@ -118,6 +118,11 @@ We thank the program committee for being available to review the submitted paper
 * Ioannis   Athanasiadis        (Wageningen University and Research)
 * Jefersson	dos Santos	        (University of Sheffield)
 * Jan Dirk  Wegner              (University of Zurich)
+* Damien Robert               (University of Zurich) <!-- review deligated from JD Wegner -->
+* Emilia Arens                (University of Zurich) <!-- review deligated from JD Wegner -->
+* Kaan Karaman                (University of Zurich) <!-- review deligated from JD Wegner -->
+* Johannes Dollinger          (University of Zurich) <!-- review deligated from JD Wegner -->
+* Marc Katzenmaier            (University of Zurich) <!-- review deligated from JD Wegner -->
 * Javiera   Castillo Navarro    (EPFL)
 * Konstantin Klemmer            (Microsoft Research)
 * Keiller	Nogueira	        (University of Stirling)
