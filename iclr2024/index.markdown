@@ -79,7 +79,7 @@ The deadline for submitting this application is March 3rd, 11:59pm Anywhere on E
 
 - [Ramona Pelich](https://www.linkedin.com/in/ramona-pelich/) is a remote-sensing scientist at the International Atomic Energy Agency in Vienna, which monitors nuclear facilities around the globe with remote-sensing data. She can share her experience in the potential of integrating modern machine learning methods in monitoring nuclear facilities remotely across the world.
 - [Matej Batic](https://www.researchgate.net/profile/Matej-Batic) is the group leader and data scientist at Sinergise and EO-research group at Sinergise, trying to employ the power of Sentinel-Hub. He has over ten years of experience in both research and commercial projects related to large amounts of geospatial data.
-- [Nico Lang](https://langnico.github.io/) is a postdoctoral researcher at the Belonge Lab in the Department of Computer Science, University of Copenhagen, Denmark. He recently published a global-scale data product on tree canopy height at Nature Ecology & Evolution that uses an uncertainty quantifying neural network in combination with satellite-based LiDAR remote sensing. He will share his experiences understanding and adapting lessons learned in modern machine learning to global-scale data products that are used by ecologists on a daily basis.
+- [Nico Lang](https://langnico.github.io/) is a postdoctoral researcher at the [Pioneer Centre for AI](https://www.aicentre.dk/) in the Department of Computer Science, University of Copenhagen, Denmark. He recently published a global-scale data product on tree canopy height at Nature Ecology & Evolution that uses an uncertainty quantifying neural network in combination with satellite-based LiDAR remote sensing. He will share his experiences understanding and adapting lessons learned in modern machine learning to global-scale data products that are used by ecologists on a daily basis.
 - [Stefan Lang](https://www.linkedin.com/in/stefan-lang-5541643/) is an Associate Professor at the Department of Geoinformatics at Salzburg University. His vision is to enhance technical and organizational capacities with cutting-edge technological advancements at the interface of satellite Earth observation, geoinformatics, and machine learning. He will share his experiences in integrating modern machine learning in his work with Doctors Without Borders in developing countries. 
 
 ## Organizers
@@ -157,6 +157,10 @@ We are looking for more sponsors. Please contact us per email if you would like 
 <!-- ### Silver Sponsors 1000 EUR -->
 
 <!-- ### Bronce Sponsors < 500 EUR -->
+### Bronce Sponsors 
+
+<img src="./images/sponsors/grss.png" alt="GRSS" width="200px"/>
+
 
 ### Technical Sponsors
 
