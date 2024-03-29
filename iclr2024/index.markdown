@@ -11,8 +11,9 @@ Outcomes from the first ML4RS workshop at ICLR 2023 in Kigali Rwanda can be foun
 ## Call for Papers
 
 ### Important Dates
-- Submission Deadline - ~~February 3rd, 2024~~ **Extended: February 9th, 2024 23:59 AoE** 
-- Acceptance Notification - March 3rd, 2024
+- Submission Deadline - ~~February 3rd, 2024 Extended: February 9th, 2024 23:59 AoE~~
+- Acceptance Notification - ~~March 3rd, 2024~~
+- Camera Ready Deadline - **April 16th, 2024**
 - Workshop - May 11, 2024, [Vienna Exhibition & Congress Center](https://www.google.com/maps/place/Messe+Wien+Exhibition+Congress+Center/@48.217191,16.4090272,15z/data=!4m2!3m1!1s0x0:0x51b94dc6a5158516?sa=X&ved=2ahUKEwjD1tzSlIODAxVChP0HHZV-ChQQ_BJ6BAgPEAA)
 
 ### Topics
@@ -29,6 +30,10 @@ We invite short papers describing new and ongoing/in progress research of **4 pa
 
 Machine Learning for Remote Sensing is non-archival and thus dual submission is allowed where permitted by third parties.
 
+### Poster Format
+
+Pleas submit poster following the [ICLR format](https://iclr.cc/FAQ/PosterInformation)
+
 ### Paper Submission
 
 Please submit your paper before the deadline (see important dates!) via CMT on the following submission site:
@@ -37,6 +42,57 @@ Please submit your paper before the deadline (see important dates!) via CMT on t
 
 You can still edit your submission until the deadline. You can also choose to submit a supplementary pdf alongside the 4-page paper. However, the reviewers are not required to look at the supplementary files.
 
+## Accepted Papers
+
+### Orals
+
+* Causal Graph Neural Networks for Wildfire Danger Prediction. Zhao, Shan; Prapas, Ioannis; Karasante, Ilektra; Xiong, Zhitong; Papoutsis, Ioannis; Camps-Valls, Gustau; Zhu, Xiaoxiang. 
+* Sparsely Labeled Land Cover Classification with Oversegmentation-based Graph U-Nets. Leonhardt, Johannes; Roscher, Ribana
+* Uncertainty Aware Tropical Cyclone Wind Speed Estimation from Satellite Data. Lehmann, Nils; Gottschling, Nina Maria; Depeweg, Stefan; Nalisnick, Eric
+* CromSS: Cross-modal pre-training with noisy labels for remote sensing image segmentation. Liu, Chenying; Albrecht, Conrad M; Wang, Yi; Zhu, Xiaoxiang
+* Leveraging Synthetic Data and Machine Learning for Cloud Optical Thickness Estimation. Pirinen, Aleksis; Abid, Nosheen; Kovács, György; Ronald, Scheirer; Ceccobello, Chiara; Agues, Nuria; Ohlson, Thomas; Persson, Anders; Liwicki, Marcus
+* Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data. Zhang, Chenhui; Wang, Sherrie
+* Evaluating Tool-Augmented Agents in Remote Sensing Platforms. Singh, Simranjit; Fore, Michael; Stamoulis, Dimitrios
+
+### Posters
+
+* Learned Embedding Fields for Multi-Source, Multi-Temporal Earth Observation Imagery	Brown, Christopher F; Kazmierski, Michal R; Rucklidge, William J; Pasquarella, Valerie J.; Shelhamer, Evan*
+* GIMI: A Geographical Generalizable Image-to-Image Search Engine with Location-explicit Contrastive Embedding	Li, Hao; Wang, Jiapan; Teuscher, Balthasar; Luo, Peng; Hong, Danfeng; Mai, Gengchen; Werner, Martin
+* Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction.	Singh, Geethen*
+* Super-resolution of Sentinel-1 Imagery Using an Enhanced Attention Network and Real Ground Truth Data	Ayala, Christian; Amieva, Juan Francisco; Galar, Mikel
+* Multi-stage semantic segmentation to map small and sparsely distributed habitats	van der Plas, Thijs Lambik; Geikie, Simon; Alexander, David; Simms, Daniel
+* Noise2Noise Denoising of CRISM Hyperspectral Data	Platt, Robert; John, Cedric; Arcucci, Rossella
+* A Concise Tiling Strategy for Preserving Spatial Context in Earth Observation Imagery	Abrahams, Ellianna; Snow, Tasha; Pérez, Fernando; Siegfried, Matthew
+* Impact of Missing Views in Multi-view Model Predictions for Vegetation Applications	Mena, Francisco; Arenas, Diego; Nuske, Marlon; Dengel, Andreas
+* Integrating physics deductive biases into learning for hyperspectral classification	Thoreau, Romain*
+* AI-powered School Mapping and Connectivity Status Prediction using Earth Observation	Doerksen, Kelsey; Tingzon, Isabelle; Kim, Dohyung
+* Towards general deep-learning-based tree instance segmentation models	Henrich, Jonathan; van Delden, Jan
+* Composite Augmentations for Semantic Segmentation in Aerial Images with Few Samples	Chandramouli, Pranav; Stavness, Ian ; McLoughlin, Phillip; Neufeld, Branden
+* On the Relevance of SAR and Optical Modalities in Deep Learning based Data Fusion	Gawlikowski, Jakob; Gottschling, Nina Maria
+* Red Teaming Models for Hyperspectral Image Analysis Using Explainable AI	Zaigrajew, Vladimir; Baniecki, Hubert; Tulczyjew, Lukasz; Wijata, Agata Maria; Nalepa, Jakub; Longepe, Nicolas; Biecek, Przemyslaw
+* Leveraging 3d Model Imagery To Estimate A New Window View Index	Law, Stephen; Stalder, Steven; Suel, Esra; Takizawa, Atsushi
+* High-resolution Multi-spectral Image Guided DEM Super-resolution using Sinkhorn Regularized Adversarial Network	Paul, Subhajit; Gupta, Ashutosh
+* Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment	Huang, Tengjun*
+* Exploring selective simple image matching methods for Unsupervised Domain adaptation of urban canopy cover and height prediction	Francis, John; Law, Stephen
+* Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning	Willbo, Martin; Pirinen, Aleksis; Martinsson, John; Listo Zec, Edvin; Mogren, Olof; Nilsson, Mikael
+* Towards Climate Variable Prediction with Conditioned Spatio-Temporal Normalizing Flows	Winkler, Christina Elisabeth; Rolnick, David
+* Limitations of non-traditional data: evaluating satellite data and OpenStreetMap for predicting spatio-temporal variation in material wealth	Schmidt-Ott, Nathanael; Kis-Katos, Krisztina
+* Global Above-Ground Biomass Density Estimation from Sentinel-2 Imagery	Bereczky, Max; Hei, Ka ; Rashkovetsky, Dima; Gottfriedsen, Julia*
+* A Change Detection Reality Check	Corley, Isaac A; Robinson, Caleb; Ortiz, Anthony
+* Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning	Dimasaka, Joshua T*
+* Bootstrapping Rare Object Detection in High-Resolution Satellite Imagery	Zaytar, Akram; Robinson, Caleb; Quentin Hacheme, Gilles; Tadesse, Girmaw Abebe; Dodhia, Rahul ; Lavista Ferres, Juan M
+* Tales from the factory floor: Crop Type Classification at Continental Scales in Industry	Barrett, Samuel J; Toro, Ana
+* ESO: Evolutionary Spectrogram Optimisation for Passive Acoustic Monitoring	Çakır, Ufuk; Jeantet, Lorène LJ; Lontsi Sob, Aaron Joel A J; Dufourq, Emmanuel
+* Spatiotemporal Rockfall Detection Using Point-Based Neural Networks	Zoumpekas, Thanasis -; Puig, Anna; Salamó, Maria
+* Leveraging Deep Learning for the Reconstruction of Plant Hyperspectral Data from RGB Images	Sarkis, Serge; Issa, Ibrahim; Abou Jaoude, Dany; Talhouk, Salma
+* Learning Source Domain Representations for Electro-Optical to SAR Transfer	Zeng, Boya; Hussing, Marcel; Eaton, Eric
+* Region-Level Labels In Ice Charts Can Produce Pixel-Level Segmentation For Sea Ice Types	Patel, Muhammed; Chen, Xinwei; Xu, Linlin; Chen, Yuhao; Scott, K Andrea; Clausi, David A
+* Spatially Far, Ecologically Close: Evaluating Extrapolation on Vegetation Forecasting Models	Robin, Claire; Weynants, Melanie; Benson, Vitus; Rußwurm, Marc; Carvalhais, Nuno; Reichstein, Markus
+* Seeing Through the Clouds: Cloud Gap Imputation with Prithvi Foundation Model	Godwin, Denys; Li, Hanxi; Cecil, Michael; Alemohammad, Hamed
+* Encoding Agent Trajectories as Representations with Sequence Transformers	Tsiligkaridis, Athanasios; Li, Zhongheng; Hou, Elizabeth
+* Synthetic data augmentation for earth observation object detection tasks	Khammari, Syrine; Fernández-Laguilhoat Sánchez-Biezma , Enrique; Sukhanov , Sergey ; Tankoyeu, Ivan
+* A Benchmark For Geographic Distribution Shift In Smallholder Agroforestry: Do Foundation Models Improve Ood Generalization?	Sachdeva, Siddharth; Biradar, Chandrasekhar; Lopez, Isabel; Lobell, David
+* Physics Informed Modeling of Ecosystem Respiration  via Dynamic Mode Decomposition with Control Input 	Shadaydeh, Maha; Denzler, Joachim; Migliavacca, Mirco
 
 ### Travel Support
 Thanks to our sponsors, we have limited funding available to support the travel of students to attend the workshop held at ICLR 2024. Awards are based on merit with additional consideration based on need and travel distance. Priority will be given to those whose papers are accepted for presentation at the workshop.
@@ -45,12 +101,25 @@ The deadline for submitting this application is March 3rd, 11:59pm Anywhere on E
 
 [Application form link](https://forms.gle/uN3VC76iyfvVe8i48)
 
-<!-- 
-## Schedule 
 
-| Start time | Topic                                                    |
-| ---------- | -------------------------------------------------------- |
->
+<!--
+## Tentative Schedule 
+
+| Start time  | Topic                                                    |
+| ----------  | -------------------------------------------------------- |
+| 9:00-9:10   | Introduction and opening remarks |
+| 9:10-9:40   | Keynote speaker #1: Sherrie Wang (MIT)  |
+| 9:40-10:00  | Coffee break (possibility to set up posters with initial discussions) |
+| 10:00-10:30 | 2 x 15 Min Oral Talk |
+| 10:30-12:00 | Poster Session #1 |
+| 12:00-13:30 | Lunch Break |
+| 13:30-14:00 | Keynote speaker #2: Damian Borth (Univ. St Gallen) |
+| 14:00-15:00 | 3 x 15 Min Oral Talk |
+| 15:30-16:30 | Panel - Beyond Benchmarks: Machine Learning for the Planet |
+| 16:30-17:00 | Poster Session #2 & Coffee break |
+| 17:00-10:30 | 2 x 15 Min Oral Talk |
+| 17:30-17:35 | Closing remarks and adjourn |
+-->
 
 <!-- TBD
 **Accepted Papers**
@@ -82,6 +151,7 @@ The deadline for submitting this application is March 3rd, 11:59pm Anywhere on E
 - [Nico Lang](https://langnico.github.io/) is a postdoctoral researcher at the [Pioneer Centre for AI](https://www.aicentre.dk/) in the Department of Computer Science, University of Copenhagen, Denmark. He recently published a global-scale data product on tree canopy height at Nature Ecology & Evolution that uses an uncertainty quantifying neural network in combination with satellite-based LiDAR remote sensing. He will share his experiences understanding and adapting lessons learned in modern machine learning to global-scale data products that are used by ecologists on a daily basis.
 - [Stefan Lang](https://www.linkedin.com/in/stefan-lang-5541643/) is an Associate Professor at the Department of Geoinformatics at Salzburg University. His vision is to enhance technical and organizational capacities with cutting-edge technological advancements at the interface of satellite Earth observation, geoinformatics, and machine learning. He will share his experiences in integrating modern machine learning in his work with Doctors Without Borders in developing countries. 
 
+
 ## Organizers
 
 - [Marc Rußwurm](http://marcrusswurm.com/) (Wageningen University)
@@ -98,10 +168,10 @@ The deadline for submitting this application is March 3rd, 11:59pm Anywhere on E
 We thank the program committee for being available to review the submitted papers!
 
 * Alejandro	Coca-Castro	(The Alan Turing Institute)
-* Alex      Hernandez-Garcia    (Mila - Quebec AI Institute)
+<!-- * Alex      Hernandez-Garcia    (Mila - Quebec AI Institute) did not submit reviews --> 
 * Anthony   Ortiz               (Microsoft)
 * Anthony	Vodacek	            (Rochester Institute of Technology)
-* Begum     Demir               (TU Berlin)
+<!-- * Begum     Demir               (TU Berlin) did not submit reviews --> 
 * Bertrand  Le Saux             (ESA / Phi-lab)
 * Caleb     Robinson            (Microsoft AI for Good Research Lab)
 * Camille   Kurtz               (Universite Paris Cite)
@@ -115,7 +185,7 @@ We thank the program committee for being available to review the submitted paper
 * Emanuele	Dalsasso	(EPFL)
 * Esther    Rolf                (Harvard & CU Boulder)
 * Gencer    Sumbul              (EPFL)
-* Ioannis   Athanasiadis        (Wageningen University and Research)
+<!-- * Ioannis   Athanasiadis        (Wageningen University and Research) did not submit reviews -->
 * Jefersson	dos Santos	        (University of Sheffield)
 * Jan Dirk  Wegner              (University of Zurich)
 * Damien Robert               (University of Zurich) <!-- review deligated from JD Wegner -->
@@ -132,7 +202,7 @@ We thank the program committee for being available to review the submitted paper
 * Mariana   Belgiu              (University of Twente)
 * Mark      Wronkiewicz         (Jet Propulsion Laboratory)
 * Patrick   Ebel                (ESA)
-* Patrick	Gray	(Select One)
+<!-- * Patrick	Gray	(Select One) did not submit reviews --> 
 * Qiusheng	Wu	(University of Tennessee, Knoxville)
 * Roberto   Interdonato         (CIRAD)
 * Rosa	    Aguilar	            (University of Twente)
