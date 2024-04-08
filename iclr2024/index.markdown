@@ -14,7 +14,7 @@ Outcomes from the first ML4RS workshop at ICLR 2023 in Kigali Rwanda can be foun
 - Submission Deadline - ~~February 3rd, 2024 Extended: February 9th, 2024 23:59 AoE~~
 - Acceptance Notification - ~~March 3rd, 2024~~
 - Camera Ready Deadline - **April 16th, 2024**
-- Workshop - May 11, 2024, [Vienna Exhibition & Congress Center](https://www.google.com/maps/place/Messe+Wien+Exhibition+Congress+Center/@48.217191,16.4090272,15z/data=!4m2!3m1!1s0x0:0x51b94dc6a5158516?sa=X&ved=2ahUKEwjD1tzSlIODAxVChP0HHZV-ChQQ_BJ6BAgPEAA)
+- Workshop - May 11, 2024, Lehar 4 [Vienna Exhibition & Congress Center](https://www.google.com/maps/place/Messe+Wien+Exhibition+Congress+Center/@48.217191,16.4090272,15z/data=!4m2!3m1!1s0x0:0x51b94dc6a5158516?sa=X&ved=2ahUKEwjD1tzSlIODAxVChP0HHZV-ChQQ_BJ6BAgPEAA)
 
 ### Topics
 
@@ -32,8 +32,9 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 
 ### Poster Format
 
-Pleas submit poster following the [ICLR format](https://iclr.cc/FAQ/PosterInformation)
+Please submit poster following the [ICLR (Workshop) Portrait posters format](https://iclr.cc/FAQ/PosterInformation) in Portrait. Posters will hung on the wall using painters tape (that will be provided). The dimensions should not exceed not to exceed H 91 x W 610 cm / H 36 x W 24 in.
 
+<!--
 ### Paper Submission
 
 Please submit your paper before the deadline (see important dates!) via CMT on the following submission site:
@@ -41,20 +42,48 @@ Please submit your paper before the deadline (see important dates!) via CMT on t
 - **Submission site:** [https://cmt3.research.microsoft.com/ML4RS2024](https://cmt3.research.microsoft.com/ML4RS2024)
 
 You can still edit your submission until the deadline. You can also choose to submit a supplementary pdf alongside the 4-page paper. However, the reviewers are not required to look at the supplementary files.
+-->
 
-## Accepted Papers
+## Schedule
+
+**Location** Workshop 9 - Room Lehar 4
+
+| Time  | Topic                                                    |
+| ----------  | -------------------------------------------------------- |
+| 9:00-9:05   | Introduction and Opening Remarks |
+| 9:05-9:30   | Keynote Speaker #1: Sherrie Wang (MIT)  |
+| 9:30-10:00  | Coffee Break #1 (possibility to set up posters with initial discussions) |
+| 10:00-11:15 | Poster Session #1 |
+| 11:15-12:15 | Panel - Beyond Benchmarks: Machine Learning for the Planet |
+| 12:15-12:45 | 2 x Orals #1 |
+| 12:45-14:00 | Lunch Break |
+| 14:00-14:30 | Keynote Speaker #2: Damian Borth (Univ. St Gallen) |
+| 14:30-15:00 | 2 x Orals #2 |
+| 15:00-16:00 | Poster Session & Coffee Break #2 |
+| 16:00-16:45 | 3 x Orals #3|
+| 16:45-17:00 | Closing Remarks and Best Poster/Paper Awards |
 
 ### Orals
 
+### Orals #1 (12:15-12:45)
+
 * Causal Graph Neural Networks for Wildfire Danger Prediction. Zhao, Shan; Prapas, Ioannis; Karasante, Ilektra; Xiong, Zhitong; Papoutsis, Ioannis; Camps-Valls, Gustau; Zhu, Xiaoxiang. 
 * Sparsely Labeled Land Cover Classification with Oversegmentation-based Graph U-Nets. Leonhardt, Johannes; Roscher, Ribana
+
+### Orals #2 (14:30-15:00)
+
 * Uncertainty Aware Tropical Cyclone Wind Speed Estimation from Satellite Data. Lehmann, Nils; Gottschling, Nina Maria; Depeweg, Stefan; Nalisnick, Eric
 * CromSS: Cross-modal pre-training with noisy labels for remote sensing image segmentation. Liu, Chenying; Albrecht, Conrad M; Wang, Yi; Zhu, Xiaoxiang
+
+### Orals #3 (16:00-16:50)
+
 * Leveraging Synthetic Data and Machine Learning for Cloud Optical Thickness Estimation. Pirinen, Aleksis; Abid, Nosheen; Kovács, György; Ronald, Scheirer; Ceccobello, Chiara; Agues, Nuria; Ohlson, Thomas; Persson, Anders; Liwicki, Marcus
 * Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data. Zhang, Chenhui; Wang, Sherrie
 * Evaluating Tool-Augmented Agents in Remote Sensing Platforms. Singh, Simranjit; Fore, Michael; Stamoulis, Dimitrios
 
-### Posters
+### Posters 
+
+Presented in Poster Sessions #1 (10:00 - 11:15) & #2 (15:00 - 16:00)
 
 * Learned Embedding Fields for Multi-Source, Multi-Temporal Earth Observation Imagery	Brown, Christopher F; Kazmierski, Michal R; Rucklidge, William J; Pasquarella, Valerie J.; Shelhamer, Evan*
 * GIMI: A Geographical Generalizable Image-to-Image Search Engine with Location-explicit Contrastive Embedding	Li, Hao; Wang, Jiapan; Teuscher, Balthasar; Luo, Peng; Hong, Danfeng; Mai, Gengchen; Werner, Martin
@@ -94,31 +123,13 @@ You can still edit your submission until the deadline. You can also choose to su
 * A Benchmark For Geographic Distribution Shift In Smallholder Agroforestry: Do Foundation Models Improve Ood Generalization?	Sachdeva, Siddharth; Biradar, Chandrasekhar; Lopez, Isabel; Lobell, David
 * Physics Informed Modeling of Ecosystem Respiration  via Dynamic Mode Decomposition with Control Input 	Shadaydeh, Maha; Denzler, Joachim; Migliavacca, Mirco
 
+<!-- 
 ### Travel Support
 Thanks to our sponsors, we have limited funding available to support the travel of students to attend the workshop held at ICLR 2024. Awards are based on merit with additional consideration based on need and travel distance. Priority will be given to those whose papers are accepted for presentation at the workshop.
 
 The deadline for submitting this application is March 3rd, 11:59pm Anywhere on Earth.
 
 [Application form link](https://forms.gle/uN3VC76iyfvVe8i48)
-
-
-<!--
-## Tentative Schedule 
-
-| Start time  | Topic                                                    |
-| ----------  | -------------------------------------------------------- |
-| 9:00-9:10   | Introduction and opening remarks |
-| 9:10-9:40   | Keynote speaker #1: Sherrie Wang (MIT)  |
-| 9:40-10:00  | Coffee break (possibility to set up posters with initial discussions) |
-| 10:00-10:30 | 2 x 15 Min Oral Talk |
-| 10:30-12:00 | Poster Session #1 |
-| 12:00-13:30 | Lunch Break |
-| 13:30-14:00 | Keynote speaker #2: Damian Borth (Univ. St Gallen) |
-| 14:00-15:00 | 3 x 15 Min Oral Talk |
-| 15:30-16:30 | Panel - Beyond Benchmarks: Machine Learning for the Planet |
-| 16:30-17:00 | Poster Session #2 & Coffee break |
-| 17:00-10:30 | 2 x 15 Min Oral Talk |
-| 17:30-17:35 | Closing remarks and adjourn |
 -->
 
 <!-- TBD
