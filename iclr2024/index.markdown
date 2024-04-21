@@ -85,43 +85,42 @@ You can still edit your submission until the deadline. You can also choose to su
 
 Presented in Poster Sessions #1 (10:00 - 11:15) & #2 (15:00 - 16:00)
 
-* Learned Embedding Fields for Multi-Source, Multi-Temporal Earth Observation Imagery	Brown, Christopher F; Kazmierski, Michal R; Rucklidge, William J; Pasquarella, Valerie J.; Shelhamer, Evan*
-* GIMI: A Geographical Generalizable Image-to-Image Search Engine with Location-explicit Contrastive Embedding	Li, Hao; Wang, Jiapan; Teuscher, Balthasar; Luo, Peng; Hong, Danfeng; Mai, Gengchen; Werner, Martin
+* Learned Embedding Fields for Multi-Source, Multi-Temporal Earth Observation Imagery. Brown*, Christopher F; Kazmierski*, Michal R; Rucklidge, William J; Pasquarella, Valerie J.; Shelhamer, Evan
+* GIMI: A Geographical Generalizable Image-to-Image Search Engine with Location-explicit Contrastive Embedding.	Li, Hao; Wang, Jiapan; Teuscher, Balthasar; Luo, Peng; Hong, Danfeng; Mai, Gengchen; Werner, Martin
 * Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction.	Singh, Geethen*
 * Super-resolution of Sentinel-1 Imagery Using an Enhanced Attention Network and Real Ground Truth Data	Ayala, Christian; Amieva, Juan Francisco; Galar, Mikel
-* Multi-stage semantic segmentation to map small and sparsely distributed habitats	van der Plas, Thijs Lambik; Geikie, Simon; Alexander, David; Simms, Daniel
+* Multi-stage semantic segmentation to map small and sparsely distributed habitats.	van der Plas, Thijs Lambik; Geikie, Simon; Alexander, David; Simms, Daniel
 * Noise2Noise Denoising of CRISM Hyperspectral Data	Platt, Robert; John, Cedric; Arcucci, Rossella
-* A Concise Tiling Strategy for Preserving Spatial Context in Earth Observation Imagery	Abrahams, Ellianna; Snow, Tasha; Pérez, Fernando; Siegfried, Matthew
+* A Concise Tiling Strategy for Preserving Spatial Context in Earth Observation Imagery.	Abrahams, Ellianna; Snow, Tasha; Pérez, Fernando; Siegfried, Matthew
 * Impact of Missing Views in Multi-view Model Predictions for Vegetation Applications	Mena, Francisco; Arenas, Diego; Nuske, Marlon; Dengel, Andreas
-* Integrating physics deductive biases into learning for hyperspectral classification	Thoreau, Romain*
+* Integrating physics deductive biases into learning for hyperspectral classification.	Thoreau, Romain*
 * AI-powered School Mapping and Connectivity Status Prediction using Earth Observation	Doerksen, Kelsey; Tingzon, Isabelle; Kim, Dohyung
-* Towards general deep-learning-based tree instance segmentation models	Henrich, Jonathan; van Delden, Jan
-* Composite Augmentations for Semantic Segmentation in Aerial Images with Few Samples	Chandramouli, Pranav; Stavness, Ian ; McLoughlin, Phillip; Neufeld, Branden
-* On the Relevance of SAR and Optical Modalities in Deep Learning based Data Fusion	Gawlikowski, Jakob; Gottschling, Nina Maria
-* Red Teaming Models for Hyperspectral Image Analysis Using Explainable AI	Zaigrajew, Vladimir; Baniecki, Hubert; Tulczyjew, Lukasz; Wijata, Agata Maria; Nalepa, Jakub; Longepe, Nicolas; Biecek, Przemyslaw
-* Leveraging 3d Model Imagery To Estimate A New Window View Index	Law, Stephen; Stalder, Steven; Suel, Esra; Takizawa, Atsushi
-* High-resolution Multi-spectral Image Guided DEM Super-resolution using Sinkhorn Regularized Adversarial Network	Paul, Subhajit; Gupta, Ashutosh
-* Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment	Huang, Tengjun*
-* Exploring selective simple image matching methods for Unsupervised Domain adaptation of urban canopy cover and height prediction	Francis, John; Law, Stephen
-* Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning	Willbo, Martin; Pirinen, Aleksis; Martinsson, John; Listo Zec, Edvin; Mogren, Olof; Nilsson, Mikael
-* Towards Climate Variable Prediction with Conditioned Spatio-Temporal Normalizing Flows	Winkler, Christina Elisabeth; Rolnick, David
-* Limitations of non-traditional data: evaluating satellite data and OpenStreetMap for predicting spatio-temporal variation in material wealth	Schmidt-Ott, Nathanael; Kis-Katos, Krisztina
-* Global Above-Ground Biomass Density Estimation from Sentinel-2 Imagery	Bereczky, Max; Hei, Ka ; Rashkovetsky, Dima; Gottfriedsen, Julia*
-* A Change Detection Reality Check	Corley, Isaac A; Robinson, Caleb; Ortiz, Anthony
-* Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning	Dimasaka, Joshua T*
-* Bootstrapping Rare Object Detection in High-Resolution Satellite Imagery	Zaytar, Akram; Robinson, Caleb; Quentin Hacheme, Gilles; Tadesse, Girmaw Abebe; Dodhia, Rahul ; Lavista Ferres, Juan M
-* Tales from the factory floor: Crop Type Classification at Continental Scales in Industry	Barrett, Samuel J; Toro, Ana
-* ESO: Evolutionary Spectrogram Optimisation for Passive Acoustic Monitoring	Çakır, Ufuk; Jeantet, Lorène LJ; Lontsi Sob, Aaron Joel A J; Dufourq, Emmanuel
-* Spatiotemporal Rockfall Detection Using Point-Based Neural Networks	Zoumpekas, Thanasis -; Puig, Anna; Salamó, Maria
-* Leveraging Deep Learning for the Reconstruction of Plant Hyperspectral Data from RGB Images	Sarkis, Serge; Issa, Ibrahim; Abou Jaoude, Dany; Talhouk, Salma
-* Learning Source Domain Representations for Electro-Optical to SAR Transfer	Zeng, Boya; Hussing, Marcel; Eaton, Eric
-* Region-Level Labels In Ice Charts Can Produce Pixel-Level Segmentation For Sea Ice Types	Patel, Muhammed; Chen, Xinwei; Xu, Linlin; Chen, Yuhao; Scott, K Andrea; Clausi, David A
-* Spatially Far, Ecologically Close: Evaluating Extrapolation on Vegetation Forecasting Models	Robin, Claire; Weynants, Melanie; Benson, Vitus; Rußwurm, Marc; Carvalhais, Nuno; Reichstein, Markus
-* Seeing Through the Clouds: Cloud Gap Imputation with Prithvi Foundation Model	Godwin, Denys; Li, Hanxi; Cecil, Michael; Alemohammad, Hamed
-* Encoding Agent Trajectories as Representations with Sequence Transformers	Tsiligkaridis, Athanasios; Li, Zhongheng; Hou, Elizabeth
-* Synthetic data augmentation for earth observation object detection tasks	Khammari, Syrine; Fernández-Laguilhoat Sánchez-Biezma , Enrique; Sukhanov , Sergey ; Tankoyeu, Ivan
+* Towards general deep-learning-based tree instance segmentation models.	Henrich, Jonathan; van Delden, Jan
+* Composite Augmentations for Semantic Segmentation in Aerial Images with Few Samples.	Chandramouli, Pranav; Stavness, Ian ; McLoughlin, Phillip; Neufeld, Branden
+* On the Relevance of SAR and Optical Modalities in Deep Learning based Data Fusion.	Gawlikowski, Jakob; Gottschling, Nina Maria
+* Red Teaming Models for Hyperspectral Image Analysis Using Explainable AI.	Zaigrajew, Vladimir; Baniecki, Hubert; Tulczyjew, Lukasz; Wijata, Agata Maria; Nalepa, Jakub; Longepe, Nicolas; Biecek, Przemyslaw
+* Leveraging 3d Model Imagery To Estimate A New Window View Index.	Law, Stephen; Stalder, Steven; Suel, Esra; Takizawa, Atsushi
+* High-resolution Multi-spectral Image Guided DEM Super-resolution using Sinkhorn Regularized Adversarial Network.	Paul, Subhajit; Gupta, Ashutosh
+* Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment.	Huang, Tengjun*
+* Exploring selective simple image matching methods for Unsupervised Domain adaptation of urban canopy cover and height prediction.	Francis, John; Law, Stephen
+* Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning.	Willbo, Martin; Pirinen, Aleksis; Martinsson, John; Listo Zec, Edvin; Mogren, Olof; Nilsson, Mikael
+* Towards Climate Variable Prediction with Conditioned Spatio-Temporal Normalizing Flows.	Winkler, Christina Elisabeth; Rolnick, David
+* Limitations of non-traditional data: evaluating satellite data and OpenStreetMap for predicting spatio-temporal variation in material wealth.	Schmidt-Ott, Nathanael; Kis-Katos, Krisztina
+* Global Above-Ground Biomass Density Estimation from Sentinel-2 Imagery.	Bereczky, Max; Hei, Ka ; Rashkovetsky, Dima; Gottfriedsen, Julia*
+* A Change Detection Reality Check.	Corley, Isaac A; Robinson, Caleb; Ortiz, Anthony
+* Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning.	Dimasaka, Joshua T*
+* Bootstrapping Rare Object Detection in High-Resolution Satellite Imagery.	Zaytar, Akram; Robinson, Caleb; Quentin Hacheme, Gilles; Tadesse, Girmaw Abebe; Dodhia, Rahul ; Lavista Ferres, Juan M
+* ESO: Evolutionary Spectrogram Optimisation for Passive Acoustic Monitoring.	Çakır, Ufuk; Jeantet, Lorène LJ; Lontsi Sob, Aaron Joel A J; Dufourq, Emmanuel
+* Spatiotemporal Rockfall Detection Using Point-Based Neural Networks.	Zoumpekas, Thanasis -; Puig, Anna; Salamó, Maria
+* Leveraging Deep Learning for the Reconstruction of Plant Hyperspectral Data from RGB Images.	Sarkis, Serge; Issa, Ibrahim; Abou Jaoude, Dany; Talhouk, Salma
+* Learning Source Domain Representations for Electro-Optical to SAR Transfer.	Zeng, Boya; Hussing, Marcel; Eaton, Eric
+* Region-Level Labels In Ice Charts Can Produce Pixel-Level Segmentation For Sea Ice Types.	Patel, Muhammed; Chen, Xinwei; Xu, Linlin; Chen, Yuhao; Scott, K Andrea; Clausi, David A
+* Spatially Far, Ecologically Close: Evaluating Extrapolation on Vegetation Forecasting Models.	Robin, Claire; Weynants, Melanie; Benson, Vitus; Rußwurm, Marc; Carvalhais, Nuno; Reichstein, Markus
+* Seeing Through the Clouds: Cloud Gap Imputation with Prithvi Foundation Model.	Godwin, Denys; Li, Hanxi; Cecil, Michael; Alemohammad, Hamed
+* Encoding Agent Trajectories as Representations with Sequence Transformers.	Tsiligkaridis, Athanasios; Li, Zhongheng; Hou, Elizabeth
+* Synthetic data augmentation for earth observation object detection tasks.	Khammari, Syrine; Fernández-Laguilhoat Sánchez-Biezma , Enrique; Sukhanov , Sergey ; Tankoyeu, Ivan
 * A Benchmark For Geographic Distribution Shift In Smallholder Agroforestry: Do Foundation Models Improve Ood Generalization?	Sachdeva, Siddharth; Biradar, Chandrasekhar; Lopez, Isabel; Lobell, David
-* Physics Informed Modeling of Ecosystem Respiration  via Dynamic Mode Decomposition with Control Input 	Shadaydeh, Maha; Denzler, Joachim; Migliavacca, Mirco
+* Physics Informed Modeling of Ecosystem Respiration  via Dynamic Mode Decomposition with Control Input. 	Shadaydeh, Maha; Denzler, Joachim; Migliavacca, Mirco
 
 <!-- 
 ### Travel Support
