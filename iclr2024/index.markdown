@@ -135,7 +135,7 @@ Presented in Poster Sessions #1 (10:00 - 11:15) & #2 (15:00 - 16:00)
 * [[poster]](camera_ready/posters/46.pdf)
  <a href="camera_ready/papers/46.pdf">A Change Detection Reality Check.	Corley, Isaac A; Robinson, Caleb; Ortiz, Anthony
 * [[poster]](camera_ready/posters/48.pdf)
- <a href="camera_ready/papers/48.pdf">Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning</a>.	Dimasaka, Joshua T*
+ <a href="camera_ready/papers/48.pdf">Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning</a>.	Dimasaka, Joshua T; Emily So; Christian Geiß
 * [[poster]](camera_ready/posters/49.pdf)
  <a href="camera_ready/papers/49.pdf">Bootstrapping Rare Object Detection in High-Resolution Satellite Imagery</a>.	Zaytar, Akram; Robinson, Caleb; Quentin Hacheme, Gilles; Tadesse, Girmaw Abebe; Dodhia, Rahul ; Lavista Ferres, Juan M
 * [[poster]](camera_ready/posters/51.pdf)
