@@ -13,7 +13,7 @@ Outcomes from the first ML4RS workshop at ICLR 2023 in Kigali Rwanda can be foun
 ### Important Dates
 - Submission Deadline - ~~February 3rd, 2024 Extended: February 9th, 2024 23:59 AoE~~
 - Acceptance Notification - ~~March 3rd, 2024~~
-- Camera Ready Deadline - **April 16th, 2024**
+<!-- - Camera Ready Deadline - **April 16th, 2024**-->
 - Workshop - May 11, 2024, Lehar 4 [Vienna Exhibition & Congress Center](https://www.google.com/maps/place/Messe+Wien+Exhibition+Congress+Center/@48.217191,16.4090272,15z/data=!4m2!3m1!1s0x0:0x51b94dc6a5158516?sa=X&ved=2ahUKEwjD1tzSlIODAxVChP0HHZV-ChQQ_BJ6BAgPEAA)
 
 ### Topics
@@ -51,76 +51,108 @@ You can still edit your submission until the deadline. You can also choose to su
 | Time  | Topic                                                    |
 | ----------  | -------------------------------------------------------- |
 | 9:00-9:05   | Introduction and Opening Remarks |
-| 9:05-9:30   | Keynote Speaker #1: Sherrie Wang (MIT)  |
+| 9:05-9:30   | [Keynote Speaker #1: Sherrie Wang (MIT)](#keynote-speakers)  |
 | 9:30-10:00  | Coffee Break #1 (possibility to set up posters with initial discussions) |
-| 10:00-11:15 | Poster Session #1 |
-| 11:15-12:15 | Panel - Beyond Benchmarks: Machine Learning for the Planet |
-| 12:15-12:45 | 2 x Orals #1 |
+| 10:00-11:15 | [Poster Session #1](#posters) |
+| 11:15-12:15 | [Panel - Beyond Benchmarks: Machine Learning for the Planet](#panelists) |
+| 12:15-12:45 | [2 x Orals #1](#orals-1-1215-1245) |
 | 12:45-14:00 | Lunch Break |
-| 14:00-14:30 | Keynote Speaker #2: Damian Borth (Univ. St Gallen) |
-| 14:30-15:00 | 2 x Orals #2 |
-| 15:00-16:00 | Poster Session & Coffee Break #2 |
-| 16:00-16:45 | 3 x Orals #3|
+| 14:00-14:30 | [Keynote Speaker #2: Damian Borth (Univ. St Gallen)](#keynote-speakers) |
+| 14:30-15:00 | [2 x Orals #2](#orals-2-1430-1500) |
+| 15:00-16:00 | [Poster Session](#posters) & Coffee Break #2 |
+| 16:00-16:45 | [3 x Orals #3](#orals-3-1600-1650)|
 | 16:45-17:00 | Closing Remarks and Best Poster/Paper Awards |
 
 ### Orals
 
 ### Orals #1 (12:15-12:45)
 
-* Causal Graph Neural Networks for Wildfire Danger Prediction. Zhao, Shan; Prapas, Ioannis; Karasante, Ilektra; Xiong, Zhitong; Papoutsis, Ioannis; Camps-Valls, Gustau; Zhu, Xiaoxiang. 
-* Sparsely Labeled Land Cover Classification with Oversegmentation-based Graph U-Nets. Leonhardt, Johannes; Roscher, Ribana
+* <a href="camera_ready/papers/16.pdf">Causal Graph Neural Networks for Wildfire Danger Prediction</a>. Zhao, Shan; Prapas, Ioannis; Karasante, Ilektra; Xiong, Zhitong; Papoutsis, Ioannis; Camps-Valls, Gustau; Zhu, Xiaoxiang. 
+* <a href="camera_ready/papers/18.pdf">Sparsely Labeled Land Cover Classification with Oversegmentation-based Graph U-Nets</a>. Leonhardt, Johannes; Roscher, Ribana
 
 ### Orals #2 (14:30-15:00)
 
-* Uncertainty Aware Tropical Cyclone Wind Speed Estimation from Satellite Data. Lehmann, Nils; Gottschling, Nina Maria; Depeweg, Stefan; Nalisnick, Eric
-* CromSS: Cross-modal pre-training with noisy labels for remote sensing image segmentation. Liu, Chenying; Albrecht, Conrad M; Wang, Yi; Zhu, Xiaoxiang
+* <a href="camera_ready/papers/21.pdf">Uncertainty Aware Tropical Cyclone Wind Speed Estimation from Satellite Data</a>. Lehmann, Nils; Gottschling, Nina Maria; Depeweg, Stefan; Nalisnick, Eric
+* <a href="camera_ready/papers/23.pdf">CromSS: Cross-modal pre-training with noisy labels for remote sensing image segmentation</a>. Liu, Chenying; Albrecht, Conrad M; Wang, Yi; Zhu, Xiaoxiang
 
 ### Orals #3 (16:00-16:50)
 
-* Leveraging Synthetic Data and Machine Learning for Cloud Optical Thickness Estimation. Pirinen, Aleksis; Abid, Nosheen; Kovács, György; Ronald, Scheirer; Ceccobello, Chiara; Agues, Nuria; Ohlson, Thomas; Persson, Anders; Liwicki, Marcus
-* Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data. Zhang, Chenhui; Wang, Sherrie
-* Evaluating Tool-Augmented Agents in Remote Sensing Platforms. Singh, Simranjit; Fore, Michael; Stamoulis, Dimitrios
+* <a href="camera_ready/papers/26.pdf">Leveraging Synthetic Data and Machine Learning for Cloud Optical Thickness Estimation</a>. Pirinen, Aleksis; Abid, Nosheen; Kovács, György; Ronald, Scheirer; Ceccobello, Chiara; Agues, Nuria; Ohlson, Thomas; Persson, Anders; Liwicki, Marcus
+* <a href="camera_ready/papers/54_submission.pdf">Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data</a>. Zhang, Chenhui; Wang, Sherrie
+* <a href="camera_ready/papers/65.pdf">Evaluating Tool-Augmented Agents in Remote Sensing Platforms</a>. Singh, Simranjit; Fore, Michael; Stamoulis, Dimitrios
 
 ### Posters 
 
 Presented in Poster Sessions #1 (10:00 - 11:15) & #2 (15:00 - 16:00)
 
-* Learned Embedding Fields for Multi-Source, Multi-Temporal Earth Observation Imagery. Brown*, Christopher F; Kazmierski*, Michal R; Rucklidge, William J; Pasquarella, Valerie J.; Shelhamer, Evan
-* GIMI: A Geographical Generalizable Image-to-Image Search Engine with Location-explicit Contrastive Embedding.	Li, Hao; Wang, Jiapan; Teuscher, Balthasar; Luo, Peng; Hong, Danfeng; Mai, Gengchen; Werner, Martin
-* Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction.	Singh, Geethen*
-* Super-resolution of Sentinel-1 Imagery Using an Enhanced Attention Network and Real Ground Truth Data	Ayala, Christian; Amieva, Juan Francisco; Galar, Mikel
-* Multi-stage semantic segmentation to map small and sparsely distributed habitats.	van der Plas, Thijs Lambik; Geikie, Simon; Alexander, David; Simms, Daniel
-* Noise2Noise Denoising of CRISM Hyperspectral Data	Platt, Robert; John, Cedric; Arcucci, Rossella
-* A Concise Tiling Strategy for Preserving Spatial Context in Earth Observation Imagery.	Abrahams, Ellianna; Snow, Tasha; Pérez, Fernando; Siegfried, Matthew
-* Impact of Missing Views in Multi-view Model Predictions for Vegetation Applications	Mena, Francisco; Arenas, Diego; Nuske, Marlon; Dengel, Andreas
-* Integrating physics deductive biases into learning for hyperspectral classification.	Thoreau, Romain*
-* AI-powered School Mapping and Connectivity Status Prediction using Earth Observation	Doerksen, Kelsey; Tingzon, Isabelle; Kim, Dohyung
-* Towards general deep-learning-based tree instance segmentation models.	Henrich, Jonathan; van Delden, Jan
-* Composite Augmentations for Semantic Segmentation in Aerial Images with Few Samples.	Chandramouli, Pranav; Stavness, Ian ; McLoughlin, Phillip; Neufeld, Branden
-* On the Relevance of SAR and Optical Modalities in Deep Learning based Data Fusion.	Gawlikowski, Jakob; Gottschling, Nina Maria
-* Red Teaming Models for Hyperspectral Image Analysis Using Explainable AI.	Zaigrajew, Vladimir; Baniecki, Hubert; Tulczyjew, Lukasz; Wijata, Agata Maria; Nalepa, Jakub; Longepe, Nicolas; Biecek, Przemyslaw
-* Leveraging 3d Model Imagery To Estimate A New Window View Index.	Law, Stephen; Stalder, Steven; Suel, Esra; Takizawa, Atsushi
-* High-resolution Multi-spectral Image Guided DEM Super-resolution using Sinkhorn Regularized Adversarial Network.	Paul, Subhajit; Gupta, Ashutosh
-* Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment.	Huang, Tengjun*
-* Exploring selective simple image matching methods for Unsupervised Domain adaptation of urban canopy cover and height prediction.	Francis, John; Law, Stephen
-* Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning.	Willbo, Martin; Pirinen, Aleksis; Martinsson, John; Listo Zec, Edvin; Mogren, Olof; Nilsson, Mikael
-* Towards Climate Variable Prediction with Conditioned Spatio-Temporal Normalizing Flows.	Winkler, Christina Elisabeth; Rolnick, David
-* Limitations of non-traditional data: evaluating satellite data and OpenStreetMap for predicting spatio-temporal variation in material wealth.	Schmidt-Ott, Nathanael; Kis-Katos, Krisztina
-* Global Above-Ground Biomass Density Estimation from Sentinel-2 Imagery.	Bereczky, Max; Hei, Ka ; Rashkovetsky, Dima; Gottfriedsen, Julia*
-* A Change Detection Reality Check.	Corley, Isaac A; Robinson, Caleb; Ortiz, Anthony
-* Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning.	Dimasaka, Joshua T*
-* Bootstrapping Rare Object Detection in High-Resolution Satellite Imagery.	Zaytar, Akram; Robinson, Caleb; Quentin Hacheme, Gilles; Tadesse, Girmaw Abebe; Dodhia, Rahul ; Lavista Ferres, Juan M
-* ESO: Evolutionary Spectrogram Optimisation for Passive Acoustic Monitoring.	Çakır, Ufuk; Jeantet, Lorène LJ; Lontsi Sob, Aaron Joel A J; Dufourq, Emmanuel
-* Spatiotemporal Rockfall Detection Using Point-Based Neural Networks.	Zoumpekas, Thanasis -; Puig, Anna; Salamó, Maria
-* Leveraging Deep Learning for the Reconstruction of Plant Hyperspectral Data from RGB Images.	Sarkis, Serge; Issa, Ibrahim; Abou Jaoude, Dany; Talhouk, Salma
-* Learning Source Domain Representations for Electro-Optical to SAR Transfer.	Zeng, Boya; Hussing, Marcel; Eaton, Eric
-* Region-Level Labels In Ice Charts Can Produce Pixel-Level Segmentation For Sea Ice Types.	Patel, Muhammed; Chen, Xinwei; Xu, Linlin; Chen, Yuhao; Scott, K Andrea; Clausi, David A
-* Spatially Far, Ecologically Close: Evaluating Extrapolation on Vegetation Forecasting Models.	Robin, Claire; Weynants, Melanie; Benson, Vitus; Rußwurm, Marc; Carvalhais, Nuno; Reichstein, Markus
-* Seeing Through the Clouds: Cloud Gap Imputation with Prithvi Foundation Model.	Godwin, Denys; Li, Hanxi; Cecil, Michael; Alemohammad, Hamed
-* Encoding Agent Trajectories as Representations with Sequence Transformers.	Tsiligkaridis, Athanasios; Li, Zhongheng; Hou, Elizabeth
-* Synthetic data augmentation for earth observation object detection tasks.	Khammari, Syrine; Fernández-Laguilhoat Sánchez-Biezma , Enrique; Sukhanov , Sergey ; Tankoyeu, Ivan
-* A Benchmark For Geographic Distribution Shift In Smallholder Agroforestry: Do Foundation Models Improve Ood Generalization?	Sachdeva, Siddharth; Biradar, Chandrasekhar; Lopez, Isabel; Lobell, David
-* Physics Informed Modeling of Ecosystem Respiration  via Dynamic Mode Decomposition with Control Input. 	Shadaydeh, Maha; Denzler, Joachim; Migliavacca, Mirco
+<!-- portrait -->
+[![](camera_ready/posters/thumbnails/14.jpg)](camera_ready/posters/14.pdf)
+[![](camera_ready/posters/thumbnails/24.jpg)](camera_ready/posters/24.pdf)
+[![](camera_ready/posters/thumbnails/33.jpg)](camera_ready/posters/33.pdf)
+[![](camera_ready/posters/thumbnails/37.jpg)](camera_ready/posters/37.pdf)
+[![](camera_ready/posters/thumbnails/48.jpg)](camera_ready/posters/48.pdf)
+[![](camera_ready/posters/thumbnails/51.jpg)](camera_ready/posters/51.pdf)
+[![](camera_ready/posters/thumbnails/55.jpg)](camera_ready/posters/55.pdf)
+[![](camera_ready/posters/thumbnails/56.jpg)](camera_ready/posters/56.pdf)
+
+<!-- landscape -->
+[![](camera_ready/posters/thumbnails/11.jpg)](camera_ready/posters/11.pdf)
+[![](camera_ready/posters/thumbnails/34.jpg)](camera_ready/posters/34.pdf)
+[![](camera_ready/posters/thumbnails/35.jpg)](camera_ready/posters/35.pdf)
+[![](camera_ready/posters/thumbnails/46.jpg)](camera_ready/posters/46.pdf)
+[![](camera_ready/posters/thumbnails/49.jpg)](camera_ready/posters/49.pdf)
+[![](camera_ready/posters/thumbnails/62.jpg)](camera_ready/posters/62.pdf)
+
+* <a href="camera_ready/papers/">Learned Embedding Fields for Multi-Source, Multi-Temporal Earth Observation Imagery</a>. Brown*, Christopher F; Kazmierski*, Michal R; Rucklidge, William J; Pasquarella, Valerie J.; Shelhamer, Evan
+* <a href="camera_ready/papers/4.pdf">GIMI: A Geographical Generalizable Image-to-Image Search Engine with Location-explicit Contrastive Embedding</a>.	Li, Hao; Wang, Jiapan; Teuscher, Balthasar; Luo, Peng; Hong, Danfeng; Mai, Gengchen; Werner, Martin
+* <a href="camera_ready/papers/6.pdf">Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction</a>.	Singh, Geethen*
+* <a href="camera_ready/papers/9.pdf">Super-resolution of Sentinel-1 Imagery Using an Enhanced Attention Network and Real Ground Truth Data</a>.	Ayala, Christian; Amieva, Juan Francisco; Galar, Mikel
+* <a href="camera_ready/papers/10.pdf">Multi-stage semantic segmentation to map small and sparsely distributed habitats</a>.	van der Plas, Thijs Lambik; Geikie, Simon; Alexander, David; Simms, Daniel
+* [[poster]](camera_ready/posters/11.pdf)
+ <a href="camera_ready/papers/11.pdf">Noise2Noise Denoising of CRISM Hyperspectral Data</a>.	Platt, Robert; John, Cedric; Arcucci, Rossella
+* <a href="camera_ready/papers/13.pdf">A Concise Tiling Strategy for Preserving Spatial Context in Earth Observation Imagery</a>.	Abrahams, Ellianna; Snow, Tasha; Pérez, Fernando; Siegfried, Matthew
+* [[poster]](camera_ready/posters/14.pdf)
+ <a href="camera_ready/papers/14.pdf">Impact of Missing Views in Multi-view Model Predictions for Vegetation Applications</a>.	Mena, Francisco; Arenas, Diego; Nuske, Marlon; Dengel, Andreas
+* <a href="camera_ready/papers/17.pdf">Integrating physics deductive biases into learning for hyperspectral classification</a>.	Thoreau, Romain*
+* [[poster]](camera_ready/posters/24.pdf)
+ <a href="camera_ready/papers/24.pdf">AI-powered School Mapping and Connectivity Status Prediction using Earth Observation</a>.	Doerksen, Kelsey; Tingzon, Isabelle; Kim, Dohyung
+* <a href="camera_ready/papers/28.pdf">Towards general deep-learning-based tree instance segmentation models</a>.	Henrich, Jonathan; van Delden, Jan
+* <a href="camera_ready/papers/29.pdf">Composite Augmentations for Semantic Segmentation in Aerial Images with Few Samples</a>.	Chandramouli, Pranav; Stavness, Ian ; McLoughlin, Phillip; Neufeld, Branden
+* <a href="camera_ready/papers/31.pdf">On the Relevance of SAR and Optical Modalities in Deep Learning based Data Fusion</a>.	Gawlikowski, Jakob; Gottschling, Nina Maria
+* <a href="camera_ready/papers/32.pdf">Red Teaming Models for Hyperspectral Image Analysis Using Explainable AI</a>.	Zaigrajew, Vladimir; Baniecki, Hubert; Tulczyjew, Lukasz; Wijata, Agata Maria; Nalepa, Jakub; Longepe, Nicolas; Biecek, Przemyslaw
+* [[poster]](camera_ready/posters/33.pdf)
+<a href="camera_ready/papers/33.pdf">Leveraging 3d Model Imagery To Estimate A New Window View Index</a>.	Law, Stephen; Stalder, Steven; Suel, Esra; Takizawa, Atsushi
+* [[poster]](camera_ready/posters/34.pdf)
+ <a href="camera_ready/papers/34.pdf">High-resolution Multi-spectral Image Guided DEM Super-resolution using Sinkhorn Regularized Adversarial Network</a>.	Paul, Subhajit; Gupta, Ashutosh
+* [[poster]](camera_ready/posters/35.pdf)
+ <a href="camera_ready/papers/35.pdf">Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment</a>.	Huang, Tengjun*
+* [[poster]](camera_ready/posters/37.pdf)
+ <a href="camera_ready/papers/37.pdf">Exploring selective simple image matching methods for Unsupervised Domain adaptation of urban canopy cover and height prediction</a>.	Francis, John; Law, Stephen
+* <a href="camera_ready/papers/40.pdf">Impacts of Color and Texture Distortions on Earth Observation Data in Deep Learning</a>.	Willbo, Martin; Pirinen, Aleksis; Martinsson, John; Listo Zec, Edvin; Mogren, Olof; Nilsson, Mikael
+* <a href="camera_ready/papers/41.pdf">Towards Climate Variable Prediction with Conditioned Spatio-Temporal Normalizing Flows</a>.	Winkler, Christina Elisabeth; Rolnick, David
+* <a href="camera_ready/papers/43.pdf">Limitations of non-traditional data: evaluating satellite data and OpenStreetMap for predicting spatio-temporal variation in material wealth</a>.	Schmidt-Ott, Nathanael; Kis-Katos, Krisztina
+* <a href="camera_ready/papers/45.pdf">Global Above-Ground Biomass Density Estimation from Sentinel-2 Imagery</a>.	Bereczky, Max; Hei, Ka ; Rashkovetsky, Dima; Gottfriedsen, Julia*
+* [[poster]](camera_ready/posters/46.pdf)
+ <a href="camera_ready/papers/46.pdf">A Change Detection Reality Check.	Corley, Isaac A; Robinson, Caleb; Ortiz, Anthony
+* [[poster]](camera_ready/posters/48.pdf)
+ <a href="camera_ready/papers/48.pdf">Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning</a>.	Dimasaka, Joshua T*
+* [[poster]](camera_ready/posters/49.pdf)
+ <a href="camera_ready/papers/49.pdf">Bootstrapping Rare Object Detection in High-Resolution Satellite Imagery</a>.	Zaytar, Akram; Robinson, Caleb; Quentin Hacheme, Gilles; Tadesse, Girmaw Abebe; Dodhia, Rahul ; Lavista Ferres, Juan M
+* [[poster]](camera_ready/posters/51.pdf)
+ <a href="camera_ready/papers/51.pdf">ESO: Evolutionary Spectrogram Optimisation for Passive Acoustic Monitoring</a>.	Çakır, Ufuk; Jeantet, Lorène LJ; Lontsi Sob, Aaron Joel A J; Dufourq, Emmanuel
+* <a href="camera_ready/papers/53.pdf">Spatiotemporal Rockfall Detection Using Point-Based Neural Networks</a>.	Zoumpekas, Thanasis; Puig, Anna; Salamó, Maria
+* [[poster]](camera_ready/posters/55.pdf)
+ <a href="camera_ready/papers/55.pdf">Leveraging Deep Learning for the Reconstruction of Plant Hyperspectral Data from RGB Images</a>.	Sarkis, Serge; Issa, Ibrahim; Abou Jaoude, Dany; Talhouk, Salma
+* [[poster]](camera_ready/posters/56.pdf)
+ <a href="camera_ready/papers/56.pdf">Learning Source Domain Representations for Electro-Optical to SAR Transfer</a>.	Zeng, Boya; Hussing, Marcel; Eaton, Eric
+* <a href="camera_ready/papers/59.pdf">Region-Level Labels In Ice Charts Can Produce Pixel-Level Segmentation For Sea Ice Types</a>.	Patel, Muhammed; Chen, Xinwei; Xu, Linlin; Chen, Yuhao; Scott, K Andrea; Clausi, David A
+* <a href="camera_ready/papers/60.pdf">Spatially Far, Ecologically Close: Evaluating Extrapolation on Vegetation Forecasting Models</a>.	Robin, Claire; Weynants, Melanie; Benson, Vitus; Rußwurm, Marc; Carvalhais, Nuno; Reichstein, Markus
+* <a href="camera_ready/papers/61.pdf">Seeing Through the Clouds: Cloud Gap Imputation with Prithvi Foundation Model</a>.	Godwin, Denys; Li, Hanxi; Cecil, Michael; Alemohammad, Hamed
+* [[poster]](camera_ready/posters/62.pdf)
+ <a href="camera_ready/papers/62.pdf">Encoding Agent Trajectories as Representations with Sequence Transformers</a>.	Tsiligkaridis, Athanasios; Li, Zhongheng; Hou, Elizabeth
+* <a href="camera_ready/papers/66.pdf">Synthetic data augmentation for earth observation object detection tasks</a>.	Khammari, Syrine; Fernández-Laguilhoat Sánchez-Biezma , Enrique; Sukhanov , Sergey ; Tankoyeu, Ivan
+* <a href="camera_ready/papers/69_submission.pdf">A Benchmark For Geographic Distribution Shift In Smallholder Agroforestry: Do Foundation Models Improve Ood Generalization?</a>.	Sachdeva, Siddharth; Biradar, Chandrasekhar; Lopez, Isabel; Lobell, David
+* <a href="camera_ready/papers/72.pdf">Physics Informed Modeling of Ecosystem Respiration via Dynamic Mode Decomposition with Control Input</a>. 	Shadaydeh, Maha; Denzler, Joachim; Migliavacca, Mirco
 
 <!-- 
 ### Travel Support
