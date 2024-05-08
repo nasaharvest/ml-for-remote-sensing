@@ -86,6 +86,11 @@ You can still edit your submission until the deadline. You can also choose to su
 Presented in Poster Sessions #1 (10:00 - 11:15) & #2 (15:00 - 16:00)
 
 <!-- portrait -->
+[![](camera_ready/posters/thumbnails/2.jpg)](camera_ready/posters/2.pdf)
+[![](camera_ready/posters/thumbnails/4.jpg)](camera_ready/posters/4.pdf)
+[![](camera_ready/posters/thumbnails/28.jpg)](camera_ready/posters/28.pdf)
+[![](camera_ready/posters/thumbnails/60.jpg)](camera_ready/posters/60.pdf)
+[![](camera_ready/posters/thumbnails/69.jpg)](camera_ready/posters/69.pdf)
 [![](camera_ready/posters/thumbnails/14.jpg)](camera_ready/posters/14.pdf)
 [![](camera_ready/posters/thumbnails/24.jpg)](camera_ready/posters/24.pdf)
 [![](camera_ready/posters/thumbnails/33.jpg)](camera_ready/posters/33.pdf)
@@ -103,8 +108,8 @@ Presented in Poster Sessions #1 (10:00 - 11:15) & #2 (15:00 - 16:00)
 [![](camera_ready/posters/thumbnails/49.jpg)](camera_ready/posters/49.pdf)
 [![](camera_ready/posters/thumbnails/62.jpg)](camera_ready/posters/62.pdf)
 
-* <a href="camera_ready/papers/">Learned Embedding Fields for Multi-Source, Multi-Temporal Earth Observation Imagery</a>. Brown*, Christopher F; Kazmierski*, Michal R; Rucklidge, William J; Pasquarella, Valerie J.; Shelhamer, Evan
-* <a href="camera_ready/papers/4.pdf">GIMI: A Geographical Generalizable Image-to-Image Search Engine with Location-explicit Contrastive Embedding</a>.	Li, Hao; Wang, Jiapan; Teuscher, Balthasar; Luo, Peng; Hong, Danfeng; Mai, Gengchen; Werner, Martin
+* [[poster]](camera_ready/posters/2.pdf) <a href="camera_ready/papers/">Learned Embedding Fields for Multi-Source, Multi-Temporal Earth Observation Imagery</a>. Brown*, Christopher F; Kazmierski*, Michal R; Rucklidge, William J; Pasquarella, Valerie J.; Shelhamer, Evan
+* [[poster]](camera_ready/posters/4.pdf) <a href="camera_ready/papers/4.pdf">GIMI: A Geographical Generalizable Image-to-Image Search Engine with Location-explicit Contrastive Embedding</a>.	Li, Hao; Wang, Jiapan; Teuscher, Balthasar; Luo, Peng; Hong, Danfeng; Mai, Gengchen; Werner, Martin
 * <a href="camera_ready/papers/6.pdf">Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction</a>.	Singh, Geethen*
 * <a href="camera_ready/papers/9.pdf">Super-resolution of Sentinel-1 Imagery Using an Enhanced Attention Network and Real Ground Truth Data</a>.	Ayala, Christian; Amieva, Juan Francisco; Galar, Mikel
 * <a href="camera_ready/papers/10.pdf">Multi-stage semantic segmentation to map small and sparsely distributed habitats</a>.	van der Plas, Thijs Lambik; Geikie, Simon; Alexander, David; Simms, Daniel
@@ -116,7 +121,7 @@ Presented in Poster Sessions #1 (10:00 - 11:15) & #2 (15:00 - 16:00)
 * <a href="camera_ready/papers/17.pdf">Integrating physics deductive biases into learning for hyperspectral classification</a>.	Thoreau, Romain*
 * [[poster]](camera_ready/posters/24.pdf)
  <a href="camera_ready/papers/24.pdf">AI-powered School Mapping and Connectivity Status Prediction using Earth Observation</a>.	Doerksen, Kelsey; Tingzon, Isabelle; Kim, Dohyung
-* <a href="camera_ready/papers/28.pdf">Towards general deep-learning-based tree instance segmentation models</a>.	Henrich, Jonathan; van Delden, Jan
+* [[poster]](camera_ready/posters/28.pdf) <a href="camera_ready/papers/28.pdf">Towards general deep-learning-based tree instance segmentation models</a>.	Henrich, Jonathan; van Delden, Jan
 * <a href="camera_ready/papers/29.pdf">Composite Augmentations for Semantic Segmentation in Aerial Images with Few Samples</a>.	Chandramouli, Pranav; Stavness, Ian ; McLoughlin, Phillip; Neufeld, Branden
 * <a href="camera_ready/papers/31.pdf">On the Relevance of SAR and Optical Modalities in Deep Learning based Data Fusion</a>.	Gawlikowski, Jakob; Gottschling, Nina Maria
 * <a href="camera_ready/papers/32.pdf">Red Teaming Models for Hyperspectral Image Analysis Using Explainable AI</a>.	Zaigrajew, Vladimir; Baniecki, Hubert; Tulczyjew, Lukasz; Wijata, Agata Maria; Nalepa, Jakub; Longepe, Nicolas; Biecek, Przemyslaw
@@ -146,12 +151,12 @@ Presented in Poster Sessions #1 (10:00 - 11:15) & #2 (15:00 - 16:00)
 * [[poster]](camera_ready/posters/56.pdf)
  <a href="camera_ready/papers/56.pdf">Learning Source Domain Representations for Electro-Optical to SAR Transfer</a>.	Zeng, Boya; Hussing, Marcel; Eaton, Eric
 * <a href="camera_ready/papers/59.pdf">Region-Level Labels In Ice Charts Can Produce Pixel-Level Segmentation For Sea Ice Types</a>.	Patel, Muhammed; Chen, Xinwei; Xu, Linlin; Chen, Yuhao; Scott, K Andrea; Clausi, David A
-* <a href="camera_ready/papers/60.pdf">Spatially Far, Ecologically Close: Evaluating Extrapolation on Vegetation Forecasting Models</a>.	Robin, Claire; Weynants, Melanie; Benson, Vitus; Rußwurm, Marc; Carvalhais, Nuno; Reichstein, Markus
+* [[poster]](camera_ready/posters/60.pdf) <a href="camera_ready/papers/60.pdf">Spatially Far, Ecologically Close: Evaluating Extrapolation on Vegetation Forecasting Models</a>.	Robin, Claire; Weynants, Melanie; Benson, Vitus; Rußwurm, Marc; Carvalhais, Nuno; Reichstein, Markus
 * <a href="camera_ready/papers/61.pdf">Seeing Through the Clouds: Cloud Gap Imputation with Prithvi Foundation Model</a>.	Godwin, Denys; Li, Hanxi; Cecil, Michael; Alemohammad, Hamed
 * [[poster]](camera_ready/posters/62.pdf)
  <a href="camera_ready/papers/62.pdf">Encoding Agent Trajectories as Representations with Sequence Transformers</a>.	Tsiligkaridis, Athanasios; Li, Zhongheng; Hou, Elizabeth
 * <a href="camera_ready/papers/66.pdf">Synthetic data augmentation for earth observation object detection tasks</a>.	Khammari, Syrine; Fernández-Laguilhoat Sánchez-Biezma , Enrique; Sukhanov , Sergey ; Tankoyeu, Ivan
-* <a href="camera_ready/papers/69_submission.pdf">A Benchmark For Geographic Distribution Shift In Smallholder Agroforestry: Do Foundation Models Improve Ood Generalization?</a>.	Sachdeva, Siddharth; Biradar, Chandrasekhar; Lopez, Isabel; Lobell, David
+* [[poster]](camera_ready/posters/69.pdf) <a href="camera_ready/papers/69.pdf">A Benchmark For Geographic Distribution Shift In Smallholder Agroforestry: Do Foundation Models Improve Ood Generalization?</a>.	Sachdeva, Siddharth; Biradar, Chandrasekhar; Lopez, Isabel; Lobell, David
 * <a href="camera_ready/papers/72.pdf">Physics Informed Modeling of Ecosystem Respiration via Dynamic Mode Decomposition with Control Input</a>. 	Shadaydeh, Maha; Denzler, Joachim; Migliavacca, Mirco
 
 <!-- 
