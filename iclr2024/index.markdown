@@ -78,7 +78,7 @@ You can still edit your submission until the deadline. You can also choose to su
 ### Orals #3 (16:00-16:50)
 
 * <a href="camera_ready/papers/26.pdf">Leveraging Synthetic Data and Machine Learning for Cloud Optical Thickness Estimation</a>. Pirinen, Aleksis; Abid, Nosheen; Kovács, György; Ronald, Scheirer; Ceccobello, Chiara; Agues, Nuria; Ohlson, Thomas; Persson, Anders; Liwicki, Marcus
-* <a href="camera_ready/papers/54_submission.pdf">Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data</a>. Zhang, Chenhui; Wang, Sherrie
+* <a href="camera_ready/papers/54.pdf">Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data</a>. Zhang, Chenhui; Wang, Sherrie
 * <a href="camera_ready/papers/65.pdf">Evaluating Tool-Augmented Agents in Remote Sensing Platforms</a>. Singh, Simranjit; Fore, Michael; Stamoulis, Dimitrios
 
 ### Posters 
