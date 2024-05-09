@@ -108,7 +108,7 @@ Presented in Poster Sessions #1 (10:00 - 11:15) & #2 (15:00 - 16:00)
 [![](camera_ready/posters/thumbnails/49.jpg)](camera_ready/posters/49.pdf)
 [![](camera_ready/posters/thumbnails/62.jpg)](camera_ready/posters/62.pdf)
 
-* [[poster]](camera_ready/posters/2.pdf) <a href="camera_ready/papers/">Learned Embedding Fields for Multi-Source, Multi-Temporal Earth Observation Imagery</a>. Brown*, Christopher F; Kazmierski*, Michal R; Rucklidge, William J; Pasquarella, Valerie J.; Shelhamer, Evan
+* [[poster]](camera_ready/posters/2.pdf) Learned Embedding Fields for Multi-Source, Multi-Temporal Earth Observation Imagery. Brown*, Christopher F; Kazmierski*, Michal R; Rucklidge, William J; Pasquarella, Valerie J.; Shelhamer, Evan
 * [[poster]](camera_ready/posters/4.pdf) <a href="camera_ready/papers/4.pdf">GIMI: A Geographical Generalizable Image-to-Image Search Engine with Location-explicit Contrastive Embedding</a>.	Li, Hao; Wang, Jiapan; Teuscher, Balthasar; Luo, Peng; Hong, Danfeng; Mai, Gengchen; Werner, Martin
 * <a href="camera_ready/papers/6.pdf">Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction</a>.	Singh, Geethen*
 * <a href="camera_ready/papers/9.pdf">Super-resolution of Sentinel-1 Imagery Using an Enhanced Attention Network and Real Ground Truth Data</a>.	Ayala, Christian; Amieva, Juan Francisco; Galar, Mikel
