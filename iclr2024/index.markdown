@@ -24,6 +24,24 @@ We welcome applications related to **sustainable development**, **societal needs
 
 Papers can present methodological innovations designed towards a particular problem or can also apply existing methods when they highlight new perspectives or limitations on existing methods or the broader environmental and societal applicability through a particular dataset or impact area.
 
+### Photos & Impressions
+
+The workshop took place in Vienna on May 11th 2024. Here are some impressions from the Venue.
+
+| ----------  | -------------------------------------------------------- |
+| ![](assets/impressions_opening.jpeg)   | ![](assets/impressions_talk.jpeg)  |
+| ![](assets/impressions_panel.jpeg)   | ![](assets/impressions_poster.jpeg)  |
+
+### Awards
+
+Thanks to our sponsors, we could award the best paper and best poster.
+
+| Best Paper Award  | Best Poster Award |
+| ----------  | -------------------------------------------------------- |
+| <a href="camera_ready/papers/54.pdf">Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data</a>. Zhang, Chenhui; Wang, Sherrie  | <a href="camera_ready/papers/13.pdf">A Concise Tiling Strategy for Preserving Spatial Context in Earth Observation Imagery</a>.	Abrahams, Ellianna; Snow, Tasha; Pérez, Fernando; Siegfried, Matthew |
+| ![](assets/best_paper_web.jpeg)   | ![](assets/best_poster_web.jpeg)  |
+
+<!--
 ### Paper Format
 
 We invite short papers describing new and ongoing/in progress research of **4 pages**. Page limits do not include references, which are unlimited. Papers will be **non-archival**. To prepare your submission, please use the [LaTeX style files for the ML4RS workshop ICLR 2024](https://www.overleaf.com/read/rmryxjvrkhyj#f5b22c). Paper reviews will be **double blind**. When submitting your manuscript, make sure you do not include any personally-identifying information such as author names or GitHub links which would de-anonymize the submission.
@@ -34,7 +52,7 @@ Machine Learning for Remote Sensing is non-archival and thus dual submission is 
 
 Please submit poster following the [ICLR (Workshop) Portrait posters format](https://iclr.cc/FAQ/PosterInformation) in Portrait. Posters will hung on the wall using painters tape (that will be provided). The dimensions should not exceed not to exceed H 91 x W 610 cm / H 36 x W 24 in.
 
-<!--
+
 ### Paper Submission
 
 Please submit your paper before the deadline (see important dates!) via CMT on the following submission site:
@@ -99,6 +117,7 @@ Presented in Poster Sessions #1 (10:00 - 11:15) & #2 (15:00 - 16:00)
 [![](camera_ready/posters/thumbnails/51.jpg)](camera_ready/posters/51.pdf)
 [![](camera_ready/posters/thumbnails/55.jpg)](camera_ready/posters/55.pdf)
 [![](camera_ready/posters/thumbnails/56.jpg)](camera_ready/posters/56.pdf)
+[![](camera_ready/posters/thumbnails/6.jpg)](camera_ready/posters/6.pdf)
 
 <!-- landscape -->
 [![](camera_ready/posters/thumbnails/11.jpg)](camera_ready/posters/11.pdf)
@@ -110,7 +129,7 @@ Presented in Poster Sessions #1 (10:00 - 11:15) & #2 (15:00 - 16:00)
 
 * [[poster]](camera_ready/posters/2.pdf) Learned Embedding Fields for Multi-Source, Multi-Temporal Earth Observation Imagery. Brown*, Christopher F; Kazmierski*, Michal R; Rucklidge, William J; Pasquarella, Valerie J.; Shelhamer, Evan
 * [[poster]](camera_ready/posters/4.pdf) <a href="camera_ready/papers/4.pdf">GIMI: A Geographical Generalizable Image-to-Image Search Engine with Location-explicit Contrastive Embedding</a>.	Li, Hao; Wang, Jiapan; Teuscher, Balthasar; Luo, Peng; Hong, Danfeng; Mai, Gengchen; Werner, Martin
-* <a href="camera_ready/papers/6.pdf">Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction</a>.	Singh, Geethen*
+* [[poster]](camera_ready/posters/6.pdf) <a href="camera_ready/papers/6.pdf">Uncertainty quantification for probabilistic machine learning in earth observation using conformal prediction</a>.	Singh, Geethen, Tamara B. Robinson, Glenn Moncrieff, Zander S. Venter, Kerry-Cawse Nicholson, Jasper Slingsby
 * <a href="camera_ready/papers/9.pdf">Super-resolution of Sentinel-1 Imagery Using an Enhanced Attention Network and Real Ground Truth Data</a>.	Ayala, Christian; Amieva, Juan Francisco; Galar, Mikel
 * <a href="camera_ready/papers/10.pdf">Multi-stage semantic segmentation to map small and sparsely distributed habitats</a>.	van der Plas, Thijs Lambik; Geikie, Simon; Alexander, David; Simms, Daniel
 * [[poster]](camera_ready/posters/11.pdf)
