@@ -4,11 +4,13 @@ layout: iclr2025
 # Machine Learning for Remote Sensing
 
 This workshop promotes trans-disciplinary research through diverse view-points to tackle the pressing questions of our times, such as climate change, social inequalities, biodiversity, and food security. 
-Developing modern machine learning approaches tailored towards remote sensing data is key to investigating these problems efficiently. This second Machine Learning for Remote Sensing (ML4RS) workshop promotes this exchange by allowing researchers to present their research on environmentally and societally important applications and/or  innovative methods that can have an impact in such application domains. 
+Developing modern machine learning approaches tailored towards remote sensing data is key to investigating these problems efficiently. This third Machine Learning for Remote Sensing (ML4RS) workshop promotes this exchange by allowing researchers to present their research on environmentally and societally important applications and/or  innovative methods that can have an impact in such application domains. 
 
 ## Call for Papers
 
 ### Important Dates
+- Submission Deadline - TBD
+- Acceptance Notification - TBD
 - Workshop - April 27th or 28th, 2025
 
 ### Topics
@@ -41,7 +43,7 @@ Papers can present methodological innovations designed towards a particular prob
 
 - [Hannah Kerner](https://hannah-rae.github.io/) (Arizona State University)
 - [Marc Rußwurm](http://marcrusswurm.com/) (Wageningen University)
-- [Hamed Alemohammad](https://hamedalemo.github.io/) (Clark University, previously Radiant Earth Foundation)
+- [Hamed Alemohammad](https://hamedalemo.github.io/) (Clark University)
 - [Gedeon Muhawenayo](https://gedeonmuhawenayo.github.io/) (Arizona State University)
 - [Gabriel Tseng](https://gabrieltseng.github.io/) (McGill / Mila - Quebec AI institute)
 - [Ribana Roscher](https://rs.ipb.uni-bonn.de/people/prof-dr-ing-ribana-roscher/) (Forschungszentrum Jülich)
