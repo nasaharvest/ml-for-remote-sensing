@@ -9,8 +9,8 @@ Developing modern machine learning approaches tailored towards remote sensing da
 ## Call for Papers
 
 ### Important Dates
-- Submission Deadline - TBD
-- Acceptance Notification - TBD
+- Submission Deadline - February 3rd, 2025
+- Acceptance Notification - March 3rd, 2025
 - Workshop - April 27th or 28th, 2025
 
 ### Topics
