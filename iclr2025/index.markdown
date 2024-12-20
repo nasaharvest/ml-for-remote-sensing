@@ -6,13 +6,6 @@ layout: iclr2025
 This workshop promotes trans-disciplinary research through diverse view-points to tackle the pressing questions of our times, such as climate change, social inequalities, biodiversity, and food security. 
 Developing modern machine learning approaches tailored towards remote sensing data is key to investigating these problems efficiently. This third Machine Learning for Remote Sensing (ML4RS) workshop promotes this exchange by allowing researchers to present their research on environmentally and societally important applications and/or  innovative methods that can have an impact in such application domains. 
 
-## Call for Papers
-
-### Important Dates
-- Submission Deadline - February 3rd, 2025
-- Acceptance Notification - March 3rd, 2025
-- Workshop - April 27th or 28th, 2025
-
 ### Topics
 
 We solicit research papers addressing advancements in key topics in Machine Learning for Remote Sensing, such as **domain adaptation**, **concept drift**, **out-of-distribution detection**, **evaluation using unlabeled data**, **model architectures for remote sensing data**, **semi-supervised learning**, **unsupervised learning**, **self-supervised learning**, **multi-fidelity data fusion**, **federated learning**, **data-centric AI**, **human-in-the-loop** and **active learning**, machine learning for **time series**, methods for **learning from limited labeled data** (e.g., few-shot learning, meta-learning), new **benchmark datasets** involving remote sensing data, **geographic equity**, and **fairness**. 
@@ -21,6 +14,62 @@ We welcome applications related to **sustainable development**, **societal needs
 
 Papers can present methodological innovations designed towards a particular problem or can also apply existing methods when they highlight new perspectives or limitations on existing methods or the broader environmental and societal applicability through a particular dataset or impact area.
 
+## Call for Papers
+
+### Important Dates
+- Submission Deadline - February 3rd, 2025
+- Acceptance Notification - March 3rd, 2025
+- Workshop - April 27th or 28th, 2025
+
+### Paper Format
+
+This year, we have two tracks: 
+
+1. a workshop paper track (4-pages) 
+2. a [tiny paper](https://iclr.cc/Conferences/2025/CallForTinyPapers) track (2-pages) and 
+
+Please indicate the track in the submission form. 
+
+#### Workshop Paper Track
+
+We invite short papers describing new and ongoing/in progress research of **4 pages**. To prepare your submission, please use the [LaTeX style files for the ML4RS workshop ICLR 2025](https://www.overleaf.com/read/srnfvcbwrqgt#4f7e09) that provides further detail on the paper structure. Paper reviews will be **double blind**. When submitting your manuscript, make sure you do not include any personally-identifying information such as author names or GitHub links which would de-anonymize the submission.
+
+Page limits do not include references, which are unlimited. The workshop papers will be **non-archival** and dual submission is allowed where permitted by third parties. After the workshop selected papers will be invited to submit to a special stream in the [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859) (please note that this will incur a - fast - additional review phase and additional publication fees).
+
+Machine Learning for Remote Sensing is non-archival and thus dual submission is allowed where permitted by third parties.
+
+<!--
+#### Tiny Paper Track
+
+Following the [ICLR 2023](https://iclr.cc/Conferences/2024/CallForTinyPapers) and [2024](https://iclr.cc/Conferences/2024/CallForTinyPapers) initiatives, we are delighted to implement Tiny Papers in the workshop as part of the DEI initiative at [ICLR 2025](https://iclr.cc/Conferences/2025/CallForTinyPapers)!
+
+The objective of the “Tiny Papers” track at ICLR workshops are threefold:
+* Creating alternative, complementary, and diverse entry points to research. And in particular, creating approachable avenues for beginners to enter and enjoy the ICLR community.
+* Celebrating intermediate breakthroughs in machine learning.
+* Efficiently disseminating ideas, findings, and opinions.
+
+As the Tiny Papers track is a Diveristy, Equity and Inclusion (DEI) initiative, **we require every submission to have at least one key author that meets the underrepresented minority (URM) criteria**. For a list of criteria, see the[call for tiny papers](https://iclr.cc/Conferences/2024/CallForTinyPapers) of ICLR 2024
+
+Despite the wide range of topics that could benefit from the Tiny Papers format, we focus the type of submissions to be the following:
+* An implementation and experimentation of a novel (not published elsewhere) yet simple idea, or a modest and self-contained theoretical result
+* A follow-up experiment to or re-analysis of a previously published paper
+* A new perspective on a previously published paper
+
+The guidelines and restrictions for this Tiny Papers track are:
+
+Write a paper with the same structure as seen in full papers, but with at most 2 pages of main text. References, Appendices, and URM Stement sections do not count towards the page limit, but we do not recommend dissecting a regular length paper into a tiny paper by moving the majority of the content into appendices. It is recommended to have 1-2 figures, 1 table, and 4-5 sections. But authors are free to use their own structure.
+-->
+
+### Paper Submission
+
+Please submit your paper before the deadline (see important dates!) via CMT.
+
+<!-- on the following submission site:
+
+- **Submission site:** [https://cmt3.research.microsoft.com/ML4RS2025](https://cmt3.research.microsoft.com/ML4RS2025)
+
+You can still edit your submission until the deadline. You can also choose to submit a supplementary pdf alongside the 4-page paper. However, the reviewers are not required to look at the supplementary files.
+-->
 
 ## Keynote speakers
 
