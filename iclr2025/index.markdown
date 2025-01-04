@@ -148,7 +148,8 @@ You can still edit your submission until the deadline. You can also choose to su
 * Zhuangfang	Yi	(Regrow)
 -->
 
-<!--
+## Sponsorship
+We are looking for sponsors to support travel grants, best paper awards, and other workshop activities. If you or your organization is interested in becoming a workshop sponsor, please contact the organizing team using the email below.
+
 ## Contact
-For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2024 please contact [ml4rs_iclr24@googlegroups.com](mailto:ml4rs_iclr24@googlegroups.com).
--->
+For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2025 please contact [ml4rs_iclr25@googlegroups.com](mailto:ml4rs_iclr25@googlegroups.com).
