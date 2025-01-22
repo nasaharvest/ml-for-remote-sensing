@@ -17,7 +17,7 @@ Papers can present methodological innovations designed towards a particular prob
 ## Call for Papers
 
 ### Important Dates
-- Submission Deadline - February 3rd, 2025
+- Submission Deadline - February 3rd, 2025 (Anywhere on Earth)
 - Acceptance Notification - March 3rd, 2025
 - Workshop - April 27th or 28th, 2025
 
@@ -25,8 +25,8 @@ Papers can present methodological innovations designed towards a particular prob
 
 This year, we have two tracks: 
 
-1. a workshop paper track (4-pages) 
-2. a [tiny paper](https://iclr.cc/Conferences/2025/CallForTinyPapers) track (2-pages) and 
+1. a workshop paper track (4-pages) and
+2. a [tiny paper](https://iclr.cc/Conferences/2025/CallForTinyPapers) track (2-pages)
 
 Please indicate the track in the submission form. 
 
@@ -38,17 +38,16 @@ Page limits do not include references, which are unlimited. The workshop papers 
 
 Machine Learning for Remote Sensing is non-archival and thus dual submission is allowed where permitted by third parties.
 
-<!--
 #### Tiny Paper Track
 
 Following the [ICLR 2023](https://iclr.cc/Conferences/2024/CallForTinyPapers) and [2024](https://iclr.cc/Conferences/2024/CallForTinyPapers) initiatives, we are delighted to implement Tiny Papers in the workshop as part of the DEI initiative at [ICLR 2025](https://iclr.cc/Conferences/2025/CallForTinyPapers)!
 
-The objective of the “Tiny Papers” track at ICLR workshops are threefold:
+The objectives of the “Tiny Papers” track at ICLR workshops are threefold:
 * Creating alternative, complementary, and diverse entry points to research. And in particular, creating approachable avenues for beginners to enter and enjoy the ICLR community.
 * Celebrating intermediate breakthroughs in machine learning.
 * Efficiently disseminating ideas, findings, and opinions.
 
-As the Tiny Papers track is a Diveristy, Equity and Inclusion (DEI) initiative, **we require every submission to have at least one key author that meets the underrepresented minority (URM) criteria**. For a list of criteria, see the[call for tiny papers](https://iclr.cc/Conferences/2024/CallForTinyPapers) of ICLR 2024
+As the Tiny Papers track is a Diveristy, Equity and Inclusion (DEI) initiative, **we require every submission to have at least one key author that meets the underrepresented minority (URM) criteria**. For a list of criteria, see the [call for tiny papers](https://iclr.cc/Conferences/2025/CallForTinyPapers) of ICLR 2025.
 
 Despite the wide range of topics that could benefit from the Tiny Papers format, we focus the type of submissions to be the following:
 * An implementation and experimentation of a novel (not published elsewhere) yet simple idea, or a modest and self-contained theoretical result
@@ -57,19 +56,15 @@ Despite the wide range of topics that could benefit from the Tiny Papers format,
 
 The guidelines and restrictions for this Tiny Papers track are:
 
-Write a paper with the same structure as seen in full papers, but with at most 2 pages of main text. References, Appendices, and URM Stement sections do not count towards the page limit, but we do not recommend dissecting a regular length paper into a tiny paper by moving the majority of the content into appendices. It is recommended to have 1-2 figures, 1 table, and 4-5 sections. But authors are free to use their own structure.
--->
+Write a paper with the same structure as seen in full papers, but with at most 2 pages of main text. References, Appendices, and URM Statement sections do not count towards the page limit, but we do not recommend dissecting a regular length paper into a tiny paper by moving the majority of the content into appendices. It is recommended to have 1-2 figures, 1 table, and 4-5 sections. But authors are free to use their own structure.
 
 ### Paper Submission
 
 Please submit your paper before the deadline (see important dates!) via CMT.
 
-<!-- on the following submission site:
-
 - **Submission site:** [https://cmt3.research.microsoft.com/ML4RS2025](https://cmt3.research.microsoft.com/ML4RS2025)
 
 You can still edit your submission until the deadline. You can also choose to submit a supplementary pdf alongside the 4-page paper. However, the reviewers are not required to look at the supplementary files.
--->
 
 ## Keynote speakers
 
