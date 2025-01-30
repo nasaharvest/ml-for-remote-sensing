@@ -81,7 +81,7 @@ You can still edit your submission until the deadline. You can also choose to su
 --->
 
 - Dr. Ying Tu is a Postdoctoral Associate in the Department of Global Development at Cornell University 
-- Dr. Ate Poortinga is a Senior Scientist and Google Earth Engine Specialist with the Environmental Mapping Team at Spatial Informatics Group
+- Dr. Daniel dela Torre is the SERVIR-Southeast Asia Science and Data Lead with the Environmental Mapping Team at Spatial Informatics Group
 
 ## Organizers
 
