@@ -17,7 +17,7 @@ Papers can present methodological innovations designed towards a particular prob
 ## Call for Papers
 
 ### Important Dates
-- Submission Deadline - February 3rd, 2025 (Anywhere on Earth)
+- Submission Deadline - ~~February 3rd~~ February 10, 2025 (Anywhere on Earth)
 - Acceptance Notification - March 3rd, 2025
 - Workshop - April 27th or 28th, 2025
 
