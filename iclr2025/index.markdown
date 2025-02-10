@@ -47,8 +47,6 @@ The objectives of the “Tiny Papers” track at ICLR workshops are threefold:
 * Celebrating intermediate breakthroughs in machine learning.
 * Efficiently disseminating ideas, findings, and opinions.
 
-As the Tiny Papers track is a Diveristy, Equity and Inclusion (DEI) initiative, **we require every submission to have at least one key author that meets the underrepresented minority (URM) criteria**. For a list of criteria, see the [call for tiny papers](https://iclr.cc/Conferences/2025/CallForTinyPapers) of ICLR 2025.
-
 Despite the wide range of topics that could benefit from the Tiny Papers format, we focus the type of submissions to be the following:
 * An implementation and experimentation of a novel (not published elsewhere) yet simple idea, or a modest and self-contained theoretical result
 * A follow-up experiment to or re-analysis of a previously published paper
@@ -56,7 +54,7 @@ Despite the wide range of topics that could benefit from the Tiny Papers format,
 
 The guidelines and restrictions for this Tiny Papers track are:
 
-Write a paper with the same structure as seen in full papers, but with at most 2 pages of main text. References, Appendices, and URM Statement sections do not count towards the page limit, but we do not recommend dissecting a regular length paper into a tiny paper by moving the majority of the content into appendices. It is recommended to have 1-2 figures, 1 table, and 4-5 sections. But authors are free to use their own structure.
+Write a paper with the same structure as seen in full papers, but with at most 2 pages of main text. References, Appendices do not count towards the page limit, but we do not recommend dissecting a regular length paper into a tiny paper by moving the majority of the content into appendices. It is recommended to have 1-2 figures, 1 table, and 4-5 sections. But authors are free to use their own structure.
 
 ### Paper Submission
 
