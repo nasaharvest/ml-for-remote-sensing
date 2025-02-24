@@ -69,10 +69,11 @@ You can still edit your submission until the deadline. You can also choose to su
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) is an Associate Professor of Computer Science in the CS Department at Stanford University where he is affiliated with the Artificial Intelligence Laboratory. His research is centered on techniques for probabilistic modeling of data and is motivated by applications in the emerging field of computational sustainability. He has won several awards, including multiple Best Paper Awards, a NSF Career Award, ONR and AFOSR Young Investigator Awards, Microsoft Research Fellowship, Sloan Fellowship, and the IJCAI Computers and Thought Award. Stefano earned his Ph.D. in Computer Science at Cornell University in 2015.
 - [Dit-Yan Yeung](https://cse.hkust.edu.hk/admin/people/faculty/profile/dyyeung) received his BEng degree in electrical engineering, MPhil degree in computer science from the University of Hong Kong (HKU), and PhD degree in computer science from the University of Southern California (USC). He started his academic career as an Assistant Professor at the Illinois Insitute of Technology (IIT) in Chicago. Later he joined the Hong Kong University of Science and Technology (HKUST) where he is currently a Chair Professor in the Department of Computer Science and Engineering. 
 
-<!-- 
-## Panelists 
+ 
+## Invited Speakers 
+- [Hao Li](https://bobleegogogo.github.io/) is a Lecturer in GIS in the Department of Geography at the National University of Singapore (NUS). He received his PhD (Dr. rer. nat) from GIScience group, Heidelberg University,  MS.c degree in Geomatics engineering, and double BS.c degrees in both Geographical Information Systems and Computer Science from Wuhan University, China. His recent research focuses on developing novel spatial representation learning methods with multimodal geospatial data for disaster management and urban analytics.
 
-
+<!--
 <img src="./images/panel/ramonapelich.jpeg" alt="Ramona Pelich" height="150px"/>
 <img src="./images/panel/matejbatic.jpeg" alt="Matej Batic" height="150px"/>
 <img src="./images/panel/nicolang.jpeg" alt="Nico Lang" height="150px"/>
