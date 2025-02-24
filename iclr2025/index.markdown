@@ -64,7 +64,7 @@ Please submit your paper before the deadline (see important dates!) via CMT.
 
 You can still edit your submission until the deadline. You can also choose to submit a supplementary pdf alongside the 4-page paper. However, the reviewers are not required to look at the supplementary files.
 
-## Keynote speakers
+## Keynote Speakers
 
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) is an Associate Professor of Computer Science in the CS Department at Stanford University where he is affiliated with the Artificial Intelligence Laboratory. His research is centered on techniques for probabilistic modeling of data and is motivated by applications in the emerging field of computational sustainability. He has won several awards, including multiple Best Paper Awards, a NSF Career Award, ONR and AFOSR Young Investigator Awards, Microsoft Research Fellowship, Sloan Fellowship, and the IJCAI Computers and Thought Award. Stefano earned his Ph.D. in Computer Science at Cornell University in 2015.
 - [Dit-Yan Yeung](https://cse.hkust.edu.hk/admin/people/faculty/profile/dyyeung) received his BEng degree in electrical engineering, MPhil degree in computer science from the University of Hong Kong (HKU), and PhD degree in computer science from the University of Southern California (USC). He started his academic career as an Assistant Professor at the Illinois Insitute of Technology (IIT) in Chicago. Later he joined the Hong Kong University of Science and Technology (HKUST) where he is currently a Chair Professor in the Department of Computer Science and Engineering. 
