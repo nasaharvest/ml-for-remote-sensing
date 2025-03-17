@@ -17,7 +17,6 @@ Papers can present methodological innovations designed towards a particular prob
 ## Call for Papers
 
 ### Important Dates
-<<<<<<< HEAD
 - ~~Submission Deadline - February 10, 2025 (Anywhere on Earth)~~
 - ~~Acceptance Notification - March 3rd, 2025~~
 - Travel Support Deadline - March 28th, 2025
@@ -29,12 +28,6 @@ Thanks to our sponsors, we have limited funding available to support the travel 
 The deadline for submitting this application is March 28th, 11:59pm Anywhere on Earth.
 
 [Application form link](https://forms.gle/TrEeSGLVb6Km5YZp9)
-
-=======
-- Submission Deadline - ~~February 3rd~~ February 10, 2025 (Anywhere on Earth)
-- Acceptance Notification - March 3rd, 2025
-- Workshop - April 27th, 2025
->>>>>>> refs/remotes/origin/main
 
 ### Paper Format
 
@@ -164,6 +157,25 @@ We thank the program committee for being available to review the submitted paper
 
 ## Sponsorship
 We are looking for sponsors to support travel grants, best paper awards, and other workshop activities. If you or your organization is interested in becoming a workshop sponsor, please contact the organizing team using the email below.
+
+
+## Sponsors
+
+We are looking for more sponsors. Please contact us per email if you would like to support this workshop.
+
+<!-- ### Platinum Sponsors  5000 EUR -->
+
+### Gold Sponsors <!-- 3000 EUR -->
+
+<img src="./images/GDM.png" alt="Hyperplan" width="500px"/>
+
+<!-- ### Silver Sponsors 1000 EUR -->
+
+### Silver Sponsors 
+
+<img src="./images/SIG_black.png" alt="SIG GIS" width="180px"/>
+<img src="./images/Ai2.png" alt="Allen AI" width="200px"/>
+
 
 ## Contact
 For questions or information about the Machine Learning for Remote Sensing workshop at ICLR 2025 please contact [ml4rs_iclr25@googlegroups.com](mailto:ml4rs_iclr25@googlegroups.com).
