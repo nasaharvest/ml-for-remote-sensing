@@ -20,6 +20,7 @@ Papers can present methodological innovations designed towards a particular prob
 - ~~Submission Deadline - February 10, 2025 (Anywhere on Earth)~~
 - ~~Acceptance Notification - March 3rd, 2025~~
 - Travel Support Deadline - March 28th, 2025
+- Camera Ready Submission Deadline - April 19, 2025 (Anywhere on Earth)
 - Workshop - Sunday April 27th, 2025
 
 ### Travel Support
