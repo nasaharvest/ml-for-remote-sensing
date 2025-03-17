@@ -17,6 +17,7 @@ Papers can present methodological innovations designed towards a particular prob
 ## Call for Papers
 
 ### Important Dates
+<<<<<<< HEAD
 - ~~Submission Deadline - February 10, 2025 (Anywhere on Earth)~~
 - ~~Acceptance Notification - March 3rd, 2025~~
 - Travel Support Deadline - March 28th, 2025
@@ -29,6 +30,11 @@ The deadline for submitting this application is March 28th, 11:59pm Anywhere on 
 
 [Application form link](https://forms.gle/TrEeSGLVb6Km5YZp9)
 
+=======
+- Submission Deadline - ~~February 3rd~~ February 10, 2025 (Anywhere on Earth)
+- Acceptance Notification - March 3rd, 2025
+- Workshop - April 27th, 2025
+>>>>>>> refs/remotes/origin/main
 
 ### Paper Format
 
@@ -73,22 +79,22 @@ Please submit your paper before the deadline (see important dates!) via CMT.
 
 You can still edit your submission until the deadline. You can also choose to submit a supplementary pdf alongside the 4-page paper. However, the reviewers are not required to look at the supplementary files.
 
-## Keynote speakers
+## Keynote Speakers
 
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) is an Associate Professor of Computer Science in the CS Department at Stanford University where he is affiliated with the Artificial Intelligence Laboratory. His research is centered on techniques for probabilistic modeling of data and is motivated by applications in the emerging field of computational sustainability. He has won several awards, including multiple Best Paper Awards, a NSF Career Award, ONR and AFOSR Young Investigator Awards, Microsoft Research Fellowship, Sloan Fellowship, and the IJCAI Computers and Thought Award. Stefano earned his Ph.D. in Computer Science at Cornell University in 2015.
 - [Dit-Yan Yeung](https://cse.hkust.edu.hk/admin/people/faculty/profile/dyyeung) received his BEng degree in electrical engineering, MPhil degree in computer science from the University of Hong Kong (HKU), and PhD degree in computer science from the University of Southern California (USC). He started his academic career as an Assistant Professor at the Illinois Insitute of Technology (IIT) in Chicago. Later he joined the Hong Kong University of Science and Technology (HKUST) where he is currently a Chair Professor in the Department of Computer Science and Engineering. 
 
-## Panelists 
-<!-- 
+ 
+## Invited Speakers 
+- [Hao Li](https://bobleegogogo.github.io/) is a Lecturer in GIS in the Department of Geography at the National University of Singapore (NUS). He received his PhD (Dr. rer. nat) from GIScience group, Heidelberg University,  MS.c degree in Geomatics engineering, and double BS.c degrees in both Geographical Information Systems and Computer Science from Wuhan University, China. His recent research focuses on developing novel spatial representation learning methods with multimodal geospatial data for disaster management and urban analytics.
 
+<!--
 <img src="./images/panel/ramonapelich.jpeg" alt="Ramona Pelich" height="150px"/>
 <img src="./images/panel/matejbatic.jpeg" alt="Matej Batic" height="150px"/>
 <img src="./images/panel/nicolang.jpeg" alt="Nico Lang" height="150px"/>
 <img src="./images/panel/stefanlang.jpeg" alt="Stefan Lang" height="150px"/>
---->
 
-- Dr. Ying Tu is a Postdoctoral Associate in the Department of Global Development at Cornell University 
-- Dr. Daniel dela Torre is the SERVIR-Southeast Asia Science and Data Lead with the Environmental Mapping Team at Spatial Informatics Group
+--->
 
 ## Organizers
 
@@ -103,52 +109,58 @@ You can still edit your submission until the deadline. You can also choose to su
 - [Esther Rolf](https://www.estherrolf.com/) (University of Colorado, Boulder)
 - [Mirali Purohit](https://www.linkedin.com/in/mirali-purohit) (Arizona State University)
 
-<!-- ## Program Committee-->
+## Program Committee
 
-<!-- We thank the program committee for being available to review the submitted papers!-->
+We thank the program committee for being available to review the submitted papers!
 
-<!-- 
-* Alejandro	Coca-Castro	(The Alan Turing Institute)
-* Anthony   Ortiz               (Microsoft)
-* Anthony	Vodacek	            (Rochester Institute of Technology)
-* Bertrand  Le Saux             (ESA / Phi-lab)
-* Caleb     Robinson            (Microsoft AI for Good Research Lab)
-* Camille   Kurtz               (Universite Paris Cite)
-* Caroline	Gevaert	(University of Twente)
-* Claudia	Paris	(University of Twente)
-* Claudio   Persello            (University of Twente)
-* Dana	    Moukheiber	        (MIT)
-* Devis Tuia (EPFL)
-* Diego     Marcos              (Inria)
-* Dino      Ienco               (INRAE)
-* Emanuele	Dalsasso	(EPFL)
-* Esther    Rolf                (Harvard & CU Boulder)
-* Gencer    Sumbul              (EPFL)
-* Jefersson	dos Santos	        (University of Sheffield)
-* Jan Dirk  Wegner              (University of Zurich)
-* Damien Robert               (University of Zurich) 
-* Emilia Arens                (University of Zurich) 
-* Kaan Karaman                (University of Zurich) 
-* Johannes Dollinger          (University of Zurich) 
-* Marc Katzenmaier            (University of Zurich) 
-* Javiera   Castillo Navarro    (EPFL)
-* Konstantin Klemmer            (Microsoft Research)
-* Keiller	Nogueira	        (University of Stirling)
-* Kristof   Van Tricht          (VITO)
-* Loic      Landrieu            (ENPC)
-* Maja	Schneider	(Technical University of Munich)
-* Mariana   Belgiu              (University of Twente)
-* Mark      Wronkiewicz         (Jet Propulsion Laboratory)
-* Patrick   Ebel                (ESA)
-* Qiusheng	Wu	(University of Tennessee, Knoxville)
-* Roberto   Interdonato         (CIRAD)
-* Rosa	    Aguilar	            (University of Twente)
-* Sergii    Skakun              (University of Maryland)
-* Subit	Chakrabarti	(Cloud To Street)
-* Sylvain   Lobry               (Universite Paris Cite)
-* Vivien    Sainte Fare Garnot  (University of Zurich)
-* Zhuangfang	Yi	(Regrow)
--->
+* Akram Zaytar (Microsoft)
+* Alejandro Coca-Castro (The Alan Turing Institute)
+* Anastasia Schlegel (DLR)
+* Anna Jungbluth (European Space Agency)
+* Anthony Fuller (Carleton University)
+* Anthony Vodacek (Rochester Institute of Technology)
+* Arthur Ouaknine (McGill University and Mila)
+* Begum Demir (TU Berlin)
+* Caleb Robinson (Microsoft AI for Good Research Lab)
+* Camille Kurtz (Université Paris Cité)
+* Caroline Gevaert (University of Twente)
+* Charlotte Pelletier (Université de Bretagne du Sud)
+* Christian Ayala (Tracasa Instrumental)
+* Dalton Lunga (Oak Ridge National Laboratory)
+* Dino Ienco (INRAE)
+* Ellianna Abrahams (UC Berkeley)
+* Gilberto Camara (INPE)
+* Homa Ansari (ZEISS Meditec)
+* Ioannis Athanasiadis (Wageningen University and Research)
+* Jakob Gawlikowski (German Aerospace Center (DLR))
+* Jan Dirk Wegner (University of Zurich)
+* Javiera Castillo Navarro (Cnam)
+* Jocelyn Chanussot (Grenoble Institute of Technology)
+* Johannes Dollinger (University of Zurich)
+* Johannes Jakubik (IBM Research)
+* Jonathan Sullivan (University of Arizona)
+* Keiller Nogueira (University of Liverpool)
+* Kristof Van Tricht (VITO)
+* Loic Landrieu (ENPC)
+* Lukas Drees (University of Zurich)
+* Marc Rußwurm (Wageningen University)
+* Michael Mommert (Stuttgart University of Applied Sciences)
+* Nicholas LaHaye (JPL)
+* Paolo Fraccaro (IBM UK)
+* Philipe Ambrozio Dias (Oak Ridge National Laboratory)
+* Ragini Mahesh (German Aerospace Center - DLR)
+* Raian Maretto (University of Twente)
+* Ramesh Nair (Planet Labs PBC)
+* Ritvik Sahajpal (University of Maryland)
+* Roberto Interdonato (CIRAD)
+* Sandeep Ravindra Tengali (Atlassian)
+* Sarang Gupta (Columbia University)
+* Steven Lu (Jet Propulsion Laboratory)
+* Subit Chakrabarti (Cloud To Street)
+* Sylvain Lobry (Université Paris Cité)
+* Tanya Nair (Floodbase)
+* Vishal Nedungadi (Wageningen University and Research)
+* Wenwen Li (Arizona State University)
 
 ## Sponsorship
 We are looking for sponsors to support travel grants, best paper awards, and other workshop activities. If you or your organization is interested in becoming a workshop sponsor, please contact the organizing team using the email below.
