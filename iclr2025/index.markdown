@@ -17,9 +17,18 @@ Papers can present methodological innovations designed towards a particular prob
 ## Call for Papers
 
 ### Important Dates
-- Submission Deadline - ~~February 3rd~~ February 10, 2025 (Anywhere on Earth)
-- Acceptance Notification - March 3rd, 2025
-- Workshop - April 27th or 28th, 2025
+- ~~Submission Deadline - February 10, 2025 (Anywhere on Earth)~~
+- ~~Acceptance Notification - March 3rd, 2025~~
+- Travel Support Deadline - March 28th, 2025
+- Workshop - Sunday April 27th, 2025
+
+### Travel Support
+Thanks to our sponsors, we have limited funding available to support the travel of students to attend the workshop held at ICLR 2024. Awards are based on merit with additional consideration based on need and travel distance. Priority will be given to those whose papers are accepted for presentation at the workshop.
+
+The deadline for submitting this application is March 28th, 11:59pm Anywhere on Earth.
+
+[Application form link](https://forms.gle/TrEeSGLVb6Km5YZp9)
+
 
 ### Paper Format
 
