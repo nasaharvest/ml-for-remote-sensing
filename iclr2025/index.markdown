@@ -78,17 +78,21 @@ You can still edit your submission until the deadline. You can also choose to su
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) is an Associate Professor of Computer Science in the CS Department at Stanford University where he is affiliated with the Artificial Intelligence Laboratory. His research is centered on techniques for probabilistic modeling of data and is motivated by applications in the emerging field of computational sustainability. He has won several awards, including multiple Best Paper Awards, a NSF Career Award, ONR and AFOSR Young Investigator Awards, Microsoft Research Fellowship, Sloan Fellowship, and the IJCAI Computers and Thought Award. Stefano earned his Ph.D. in Computer Science at Cornell University in 2015.
 - [Xiaoxiang Zhu](https://ai4eo.de) is Xiaoxiang Zhu is Chair Professor for Data Science in Earth Observation at the Technical University of Munich (TUM), where she also serves as a director at the Munich Data Science Institute. She leads the national center of excellence ML4Earth and the international future AI lab AI4EO. Zhu is a visiting AI professor at ESA’s Phi-lab and a Fellow of IEEE, ELLIS, and Academia Europaea. Her main research interests are remote sensing and Earth observation, signal processing, machine learning and data science, with their applications in tackling societal grand challenges, e.g. Global Urbanization, UN’s SDGs and Climate Change.
 
+<p float="left">
 <img src="./images/stefano-ermon.jpg" alt="Stefano Ermon" height="150px"/>
 <img src="./images/Portrait_Zhu_2023.jpg" alt="Xiaoxiang Zhu" height="150px"/>
+</p>
  
 ## Invited Speakers 
 - [Hao Li](https://bobleegogogo.github.io/) is a Lecturer in GIS in the Department of Geography at the National University of Singapore (NUS). He received his PhD (Dr. rer. nat) from GIScience group, Heidelberg University,  MS.c degree in Geomatics engineering, and double BS.c degrees in both Geographical Information Systems and Computer Science from Wuhan University, China. His recent research focuses on developing novel spatial representation learning methods with multimodal geospatial data for disaster management and urban analytics.
 - [Soo Chin Liew](https://discovery.nus.edu.sg/353-soo-chin-liew) is Principal Research Scientist (rank of Associate Professor) and Head of Research at the Center for Remote Imaging, Sensing and Processing (CRISP), National University of Singapore (NUS). He obtained his PhD degree in physics from the University of Arizona in 1989 and did post-doctoral research at the Physics Research Lab, University of California at San Francisco (UCSF) Radiology Department before joining NUS. He has previous research experience in thermoacoustic emission, X-ray transmission and single photon emission computed tomography, nuclear microscopy and image processing. His current research focuses on remote sensing of the earth with expertise in hyperspectral imaging, ocean optics, inland and coastal water quality, atmospheric aerosols, forest fires and land cover change. He is Associate Editor of Frontiers in Remote Sensing, Review Editor of Frontiers in Environmental Science, a member of the Editorial Board of Remote Sensing, and former Associate Editor of SPIE Journal of Applied Remote Sensing (2014 - 2019). He participated as a PI in NASA EO-1 satellite science team working on the Hyperion instrument.
 - [Konstantin Klemmer](https://konstantinklemmer.github.io/) is a machine learning researcher at Microsoft Research Redmond. His research focuses broadly on applied AI and data-centric methods in organizational contexts and, more specifically, on the representation of geospatial phenomena in machine learning methods. Beyond that, Konstantin is interested in the application of these methods in urban environments and to tackle climate change. Before his current role, he was a postdoctoral researcher at Microsoft Research New England. Konstantin completed his PhD at the University of Warwick and New York University.
 
+<p float="left">
 <img src="./images/hao.jpg" alt="Hao Li" height="150px"/>
 <img src="./images/soo-chin-liew.jpeg" alt="Soo Chin Liew" height="150px"/>
 <img src="./images/konstantin.png" alt="Konstantin Klemmer" height="150px"/>
+</p>
 
 ## Organizers
 
