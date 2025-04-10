@@ -21,6 +21,7 @@ Papers can present methodological innovations designed towards a particular prob
 - ~~Acceptance Notification - March 3rd, 2025~~
 - ~~Travel Support Deadline - March 28th, 2025~~
 - Camera Ready Submission Deadline - April 19, 2025 (Anywhere on Earth)
+- Bonus Track Submission Deadline - April 23, 2025 (Anywhere on Earth)
 - Workshop - Sunday April 27th, 2025
 
 ### Travel Support
@@ -62,6 +63,14 @@ Despite the wide range of topics that could benefit from the Tiny Papers format,
 The guidelines and restrictions for this Tiny Papers track are:
 
 Write a paper with the same structure as seen in full papers, but with at most 2 pages of main text. References, Appendices do not count towards the page limit, but we do not recommend dissecting a regular length paper into a tiny paper by moving the majority of the content into appendices. It is recommended to have 1-2 figures, 1 table, and 4-5 sections. But authors are free to use their own structure.
+
+#### Bonus Track
+
+We invite content for a "bonus track" of our workshop to better broadcast projects, progress, and announcements across the diverse orbits of work on machine learning for remote sensing. In particular we welcome the submission of one-slide presentations and live demos.
+
+- **Bonus track submission form:** [https://forms.gle/jPqYbQPgAhTi7RXA6](https://forms.gle/jPqYbQPgAhTi7RXA6)
+
+The deadline for the bonus track is April 23, 2025 (Anywhere on Earth).
 
 ### Paper Submission
 
