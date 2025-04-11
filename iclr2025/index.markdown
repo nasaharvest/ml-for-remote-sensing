@@ -32,6 +32,8 @@ We invite content for a "bonus track" of our workshop to better broadcast projec
 
 The deadline for the bonus track is April 23, 2025 (Anywhere on Earth).
 
+Accepted slides will be auto-played during the poster sessions and breaks and linked from the workshop site. Demos will be presented _in-person_ during the event subject to venue space and equipment.
+
 ### Travel Support
 Thanks to our sponsors, we have limited funding available to support the travel of students to attend the workshop held at ICLR 2024. Awards are based on merit with additional consideration based on need and travel distance. Priority will be given to those whose papers are accepted for presentation at the workshop.
 
