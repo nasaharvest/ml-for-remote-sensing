@@ -82,6 +82,28 @@ Please submit your paper before the deadline (see important dates!) via CMT.
 
 You can still edit your submission until the deadline. You can also choose to submit a supplementary pdf alongside the 4-page paper. However, the reviewers are not required to look at the supplementary files.
 
+## 🗓 Schedule
+Event times shown in the schedule are local times in Singapore
+
+| Time          | Topic                            |
+|---------------|----------------------------------|
+| 9:00–9:10     | Opening Remarks                  |
+| 9:10–9:40     | Keynote 1 <br> Stefano Ermon: _Topic TBA_                      |
+| 9:40–10:00    | Invited Talk 1  <br>  Hao Li  : _Topic TBA_            |
+| 10:00–10:30   | Coffee Break                     |
+| 10:30–10:50   | Invited Talk 2  <br>Soo Chin Liew : _Topic TBA_                  |
+| 10:50–11:20   | Oral Talks 1    <br> - [A Recipe for Improving Remote Sensing VLM Zero Shot Generalization](#) <br> - [Using Multiple Input Modalities Can Improve Data-efficiency for ML with Satellite Imagery](#) |
+| 11:20–12:00   | Poster Session #1 <br> - [Self-supervised Object Detection in Synthetic Aperture Radar Images](#) <br> - [Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery](#) <br> - [A Recipe for Improving Remote Sensing VLM Zero Shot Generalization](#) <br> - [Leveraging Satellite Imagery for Childhood Poverty Estimation](#) <br> - [Interactive Few-shot Online Adaptation for User-Guided Segmentation in Aerial Images](#) <br> - [PyViT-FUSE: A Foundation Model for Multi-Sensor Earth Observation Data](#) <br> - [Monitoring Illicit Rare Earth Mining in Myanmar via Self-Supervised Learning](#) <br> - [DR-SCAN: An Interpretable Dual-Branch Residual Spatial and Channel Attention Network for Remote Sensing and Geoscience Image Super-Resolution](#) <br> - [DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO](#) <br> - [Using Multiple Input Modalities Can Improve Data-Efficiency for ML with Satellite Imagery](#) <br> - [Robustness to Geographic Distribution Shift using Location Encoders](#) <br> - [An Analysis of Multimodal Large Language Models for Object Localization in Earth Observation Imagery](#) <br> - [LIGHTHOUSE: Fast and Precise Distance to Shoreline Calculations from Anywhere on Earth](#) |
+| 12:00–14:00   | Lunch Break                      |
+| 14:00–14:30   | Keynote 2  <br> Xiaoxiang Zhu : _Topic TBA_                      |
+| 14:30–15:00   | Oral Talks 2   <br> - [Balancing Quantity and Representativeness in Constrained Geospatial Dataset Design](#) <br> - [Do Satellite Tasks Need Special Pretraining?](#)        |
+| 15:00–15:30   | Coffee Break                     |
+| 15:30–15:50   | Invited Talk 3  <br> Konstantin Klemmer:  _Topic TBA_                |
+| 15:50–16:20   | Oral Talks 3  <br> - [Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model](#) <br> - [OSDMamba: Enhancing Oil Spill Detection from Synthetic Aperture Radar Images Using Selective State Space Model](#)         |
+| 16:20–17:00   | Poster Session 2 <br> - [Onboard Terrain Classification via Stacked Intelligent Metasurface-Diffractive Deep Neural Networks from SAR Level-0 Raw Data](#) <br> - [Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model](#) <br> - [Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution](#) <br> - [Assessing SAM for Tree Crown Instance Segmentation from Drone Imagery](#) <br> - [LandsatQuake: A Large-Scale Dataset for Practical Landslide Detection](#) <br> - [OSDMamba: Enhancing Oil Spill Detection from Synthetic Aperture Radar Images Using Selective State Space Model](#) <br> - [Efficient Land-Cover Image Classification via Mixed Bit-Precision Quantization](#) <br> - [Predicting Out-of-Domain Performance under Geographic Distribution Shifts](#) <br> - [Balancing Quantity and Representativeness in Constrained Geospatial Dataset Design](#) <br> - [SAMSelect: A Spectral Index Search for Marine Debris Visualization Using Segment Anything](#) <br> - [Self-Supervised Representation Learning on Remote Sensing Pixel Time Series with Patch-Based Masking](#) <br> - [Large Language Models for Captioning and Retrieving Remote Sensing Images](#) <br> - [Do Satellite Tasks Need Special Pretraining?](#) |
+| 17:00–17:20   | Best Paper Awards, Closing Remarks |
+
+
 ## Keynote Speakers
 
 - [Stefano Ermon](https://cs.stanford.edu/~ermon/) is an Associate Professor of Computer Science in the CS Department at Stanford University where he is affiliated with the Artificial Intelligence Laboratory. His research is centered on techniques for probabilistic modeling of data and is motivated by applications in the emerging field of computational sustainability. He has won several awards, including multiple Best Paper Awards, a NSF Career Award, ONR and AFOSR Young Investigator Awards, Microsoft Research Fellowship, Sloan Fellowship, and the IJCAI Computers and Thought Award. Stefano earned his Ph.D. in Computer Science at Cornell University in 2015.
