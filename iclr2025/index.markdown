@@ -82,10 +82,8 @@ Please submit your paper before the deadline (see important dates!) via CMT.
 
 You can still edit your submission until the deadline. You can also choose to submit a supplementary pdf alongside the 4-page paper. However, the reviewers are not required to look at the supplementary files.
 
-## Schedule
+## 🗓 Schedule
 Event times shown in the schedule are local times in Singapore
-
-## 🗓 Workshop Schedule
 
 | Time          | Topic                            |
 |---------------|----------------------------------|
