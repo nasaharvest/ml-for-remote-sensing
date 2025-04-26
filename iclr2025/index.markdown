@@ -3,14 +3,14 @@ layout: iclr2025
 ---
 # Machine Learning for Remote Sensing
 
-This workshop promotes trans-disciplinary research through diverse view-points to tackle the pressing questions of our times, such as climate change, social inequalities, biodiversity, and food security. 
-Developing modern machine learning approaches tailored towards remote sensing data is key to investigating these problems efficiently. This third Machine Learning for Remote Sensing (ML4RS) workshop promotes this exchange by allowing researchers to present their research on environmentally and societally important applications and/or  innovative methods that can have an impact in such application domains. 
+This workshop promotes trans-disciplinary research through diverse view-points to tackle the pressing questions of our times, such as climate change, social inequalities, biodiversity, and food security.
+Developing modern machine learning approaches tailored towards remote sensing data is key to investigating these problems efficiently. This third Machine Learning for Remote Sensing (ML4RS) workshop promotes this exchange by allowing researchers to present their research on environmentally and societally important applications and/or  innovative methods that can have an impact in such application domains.
 
 ### Topics
 
-We solicit research papers addressing advancements in key topics in Machine Learning for Remote Sensing, such as **domain adaptation**, **concept drift**, **out-of-distribution detection**, **evaluation using unlabeled data**, **model architectures for remote sensing data**, **semi-supervised learning**, **unsupervised learning**, **self-supervised learning**, **multi-fidelity data fusion**, **federated learning**, **data-centric AI**, **human-in-the-loop** and **active learning**, machine learning for **time series**, methods for **learning from limited labeled data** (e.g., few-shot learning, meta-learning), new **benchmark datasets** involving remote sensing data, **geographic equity**, and **fairness**. 
+We solicit research papers addressing advancements in key topics in Machine Learning for Remote Sensing, such as **domain adaptation**, **concept drift**, **out-of-distribution detection**, **evaluation using unlabeled data**, **model architectures for remote sensing data**, **semi-supervised learning**, **unsupervised learning**, **self-supervised learning**, **multi-fidelity data fusion**, **federated learning**, **data-centric AI**, **human-in-the-loop** and **active learning**, machine learning for **time series**, methods for **learning from limited labeled data** (e.g., few-shot learning, meta-learning), new **benchmark datasets** involving remote sensing data, **geographic equity**, and **fairness**.
 
-We welcome applications related to **sustainable development**, **societal needs**, **planetary exploration**, and **more**, including but not limited to **agriculture** and **food security**, **forestry**, **biodiversity** and **species distribution modeling**, **natural hazards** and **disasters**, and other societal and environmental questions. 
+We welcome applications related to **sustainable development**, **societal needs**, **planetary exploration**, and **more**, including but not limited to **agriculture** and **food security**, **forestry**, **biodiversity** and **species distribution modeling**, **natural hazards** and **disasters**, and other societal and environmental questions.
 
 Papers can present methodological innovations designed towards a particular problem or can also apply existing methods when they highlight new perspectives or limitations on existing methods or the broader environmental and societal applicability through a particular dataset or impact area.
 
@@ -20,8 +20,8 @@ Papers can present methodological innovations designed towards a particular prob
 - ~~Submission Deadline - February 10, 2025 (Anywhere on Earth)~~
 - ~~Acceptance Notification - March 3rd, 2025~~
 - ~~Travel Support Deadline - March 28th, 2025~~
-- Camera Ready Submission Deadline - April 19, 2025 (Anywhere on Earth)
-- Bonus Track Submission Deadline - April 23, 2025 (Anywhere on Earth)
+- ~~Camera Ready Submission Deadline - April 19, 2025 (Anywhere on Earth)~~
+- ~~Bonus Track Submission Deadline - April 23, 2025 (Anywhere on Earth)~~
 - Workshop - Sunday April 27th, 2025
 
 ### Bonus Track
@@ -41,12 +41,12 @@ The deadline for submitting this application was March 28th, 11:59pm Anywhere on
 
 ### Paper Format
 
-This year, we have two tracks: 
+This year, we have two tracks:
 
 1. a workshop paper track (4-pages) and
 2. a [tiny paper](https://iclr.cc/Conferences/2025/CallForTinyPapers) track (2-pages)
 
-Please indicate the track in the submission form. 
+Please indicate the track in the submission form.
 
 #### Workshop Paper Track
 
@@ -88,17 +88,17 @@ Event times shown in the schedule are local times in Singapore
 | Time          | Topic                            |
 |---------------|----------------------------------|
 | 9:00–9:10     | Opening Remarks                  |
-| 9:10–9:40     | Keynote 1 <br> Stefano Ermon: _Topic TBA_                      |
-| 9:40–10:00    | Invited Talk 1  <br>  Hao Li  : _Topic TBA_            |
+| 9:10–9:40     | Keynote 1 <br> Stefano Ermon: Towards Generative Foundation Models for Remote Sensing Data.                       |
+| 9:40–10:00    | Invited Talk 1  <br>  Hao Li  : GeoAI and Spatial Representation Learning for Rapid Disaster Response.            |
 | 10:00–10:30   | Coffee Break                     |
-| 10:30–10:50   | Invited Talk 2  <br>Soo Chin Liew : _Topic TBA_                  |
+| 10:30–10:50   | Invited Talk 2  <br>Soo Chin Liew : Machine Learning for Remote Sensing from a User's Perspective                  |
 | 10:50–11:20   | Oral Talks 1    <br> - [A Recipe for Improving Remote Sensing VLM Zero Shot Generalization](#) <br> - [Using Multiple Input Modalities Can Improve Data-efficiency for ML with Satellite Imagery](#) |
 | 11:20–12:00   | Poster Session #1 <br> - [Self-supervised Object Detection in Synthetic Aperture Radar Images](#) <br> - [Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery](#) <br> - [A Recipe for Improving Remote Sensing VLM Zero Shot Generalization](#) <br> - [Leveraging Satellite Imagery for Childhood Poverty Estimation](#) <br> - [Interactive Few-shot Online Adaptation for User-Guided Segmentation in Aerial Images](#) <br> - [PyViT-FUSE: A Foundation Model for Multi-Sensor Earth Observation Data](#) <br> - [Monitoring Illicit Rare Earth Mining in Myanmar via Self-Supervised Learning](#) <br> - [DR-SCAN: An Interpretable Dual-Branch Residual Spatial and Channel Attention Network for Remote Sensing and Geoscience Image Super-Resolution](#) <br> - [DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO](#) <br> - [Using Multiple Input Modalities Can Improve Data-Efficiency for ML with Satellite Imagery](#) <br> - [Robustness to Geographic Distribution Shift using Location Encoders](#) <br> - [An Analysis of Multimodal Large Language Models for Object Localization in Earth Observation Imagery](#) <br> - [LIGHTHOUSE: Fast and Precise Distance to Shoreline Calculations from Anywhere on Earth](#) |
 | 12:00–14:00   | Lunch Break                      |
 | 14:00–14:30   | Keynote 2  <br> Xiaoxiang Zhu : _Topic TBA_                      |
 | 14:30–15:00   | Oral Talks 2   <br> - [Balancing Quantity and Representativeness in Constrained Geospatial Dataset Design](#) <br> - [Do Satellite Tasks Need Special Pretraining?](#)        |
 | 15:00–15:30   | Coffee Break                     |
-| 15:30–15:50   | Invited Talk 3  <br> Konstantin Klemmer:  _Topic TBA_                |
+| 15:30–15:50   | Invited Talk 3  <br> Konstantin Klemmer:  Earth Embeddings: A new perspective on geospatial foundation models               |
 | 15:50–16:20   | Oral Talks 3  <br> - [Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model](#) <br> - [OSDMamba: Enhancing Oil Spill Detection from Synthetic Aperture Radar Images Using Selective State Space Model](#)         |
 | 16:20–17:00   | Poster Session 2 <br> - [Onboard Terrain Classification via Stacked Intelligent Metasurface-Diffractive Deep Neural Networks from SAR Level-0 Raw Data](#) <br> - [Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model](#) <br> - [Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution](#) <br> - [Assessing SAM for Tree Crown Instance Segmentation from Drone Imagery](#) <br> - [LandsatQuake: A Large-Scale Dataset for Practical Landslide Detection](#) <br> - [OSDMamba: Enhancing Oil Spill Detection from Synthetic Aperture Radar Images Using Selective State Space Model](#) <br> - [Efficient Land-Cover Image Classification via Mixed Bit-Precision Quantization](#) <br> - [Predicting Out-of-Domain Performance under Geographic Distribution Shifts](#) <br> - [Balancing Quantity and Representativeness in Constrained Geospatial Dataset Design](#) <br> - [SAMSelect: A Spectral Index Search for Marine Debris Visualization Using Segment Anything](#) <br> - [Self-Supervised Representation Learning on Remote Sensing Pixel Time Series with Patch-Based Masking](#) <br> - [Large Language Models for Captioning and Retrieving Remote Sensing Images](#) <br> - [Do Satellite Tasks Need Special Pretraining?](#) |
 | 17:00–17:20   | Best Paper Awards, Closing Remarks |
@@ -113,8 +113,8 @@ Event times shown in the schedule are local times in Singapore
 <img src="./images/stefano-ermon.jpg" alt="Stefano Ermon" height="150px"/>
 <img src="./images/Portrait_Zhu_2023.jpg" alt="Xiaoxiang Zhu" height="150px"/>
 </p>
- 
-## Invited Speakers 
+
+## Invited Speakers
 - [Hao Li](https://bobleegogogo.github.io/) is a Lecturer in GIS in the Department of Geography at the National University of Singapore (NUS). He received his PhD (Dr. rer. nat) from GIScience group, Heidelberg University,  MS.c degree in Geomatics engineering, and double BS.c degrees in both Geographical Information Systems and Computer Science from Wuhan University, China. His recent research focuses on developing novel spatial representation learning methods with multimodal geospatial data for disaster management and urban analytics.
 - [Soo Chin Liew](https://discovery.nus.edu.sg/353-soo-chin-liew) is a Principal Research Scientist (rank of Associate Professor) and Head of Research at the Center for Remote Imaging, Sensing and Processing (CRISP), National University of Singapore (NUS). He obtained his PhD degree in physics from the University of Arizona in 1989 and did post-doctoral research at the Physics Research Lab, University of California at San Francisco (UCSF) Radiology Department before joining NUS. He has previous research experience in thermoacoustic emission, X-ray transmission and single photon emission computed tomography, nuclear microscopy and image processing. His current research focuses on remote sensing of the earth with expertise in hyperspectral imaging, ocean optics, inland and coastal water quality, atmospheric aerosols, forest fires and land cover change. He is Associate Editor of Frontiers in Remote Sensing, Review Editor of Frontiers in Environmental Science, a member of the Editorial Board of Remote Sensing, and former Associate Editor of SPIE Journal of Applied Remote Sensing (2014 - 2019). He participated as a PI in NASA EO-1 satellite science team working on the Hyperion instrument.
 - [Konstantin Klemmer](https://konstantinklemmer.github.io/) is a machine learning researcher at Microsoft Research Redmond. His research focuses broadly on applied AI and data-centric methods in organizational contexts and, more specifically, on the representation of geospatial phenomena in machine learning methods. Beyond that, Konstantin is interested in the application of these methods in urban environments and to tackle climate change. Before his current role, he was a postdoctoral researcher at Microsoft Research New England. Konstantin completed his PhD at the University of Warwick and New York University.
@@ -207,7 +207,7 @@ We are looking for more sponsors. Please contact us per email if you would like 
 
 <!-- ### Silver Sponsors 1000 EUR -->
 
-### Silver Sponsors 
+### Silver Sponsors
 
 <img src="./images/SIG_black.png" alt="SIG GIS" width="180px"/>
 <img src="./images/Ai2.png" alt="Allen AI" width="200px"/>
